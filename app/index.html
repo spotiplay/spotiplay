@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en" >
+  <head>
+    <title>Spotiplay</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <meta name="description" content="Advanced music manager for Spotify">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/lib/angular-material.min.css"/>
+    <!-- inject:css -->
+    <link rel="stylesheet" href="assets/app.css"/>
+    <link rel="stylesheet" href="assets/list.css"/>
+    <link rel="stylesheet" href="assets/player.css"/>
+    <!-- endinject -->
+  </head>
+
+  <body ng-app="spoti">
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+              fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+    <div id="wrapper" class="wrapper" ng-view></div>
+
+     <div id="footer">
+       <img id="logo" src="assets/logo60.png">
+       <b>Spotiplay</b> by <a href="http://garmoshka-mo.blogspot.com/" target="_blank">garmoshka-mo</a>
+
+       <div style="float: right; margin-top: 2px;">
+         <a href="#/support">Feedback</a>
+       </div>
+
+       <!-- div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="link">
+         <i class="fa fa-facebook-square"></i>
+       </div>
+    -->
+     </div>
+
+
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular-route.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular-resource.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular-animate.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular-aria.min.js"></script>
+    <script src="//anglibs.github.io/angular-event-emitter/angular-event-emitter.min.js"></script>
+
+    <!-- inject:js -->
+    <script type="text/javascript" src="assets/lib/angular-material.min.js"></script>
+    <script type="text/javascript" src="assets/lib/rollbar.js"></script>
+    <script type="text/javascript" src="assets/lib/crc32.js"></script>
+    <script type="text/javascript" src="assets/lib/jquery.min.js"></script>
+    <script type="text/javascript" src="assets/lib/jquery.websql.min.js"></script>
+
+    <script src="./src/init.js"></script>
+    <script src="./src/music/Music1.js"></script>
+    <script src="./src/music/Queue.js"></script>
+    <script src="./src/music/Playlists.js"></script>
+    <script src="./src/music/Save.js"></script>
+    <script src="./src/music/Load.js"></script>
+    <script src="./src/auth/Home.js"></script>
+    <script src="./src/auth/Auth.js"></script>
+    <script src="./src/auth/Support.js"></script>
+    <script src="./src/tags/Controller.js"></script>
+    <script src="./src/test/Controller.js"></script>
+    <script src="./src/toast/Toast.js"></script>
+    <script src="./src/panel/Panel.js"></script>
+    <script src="./src/panel/Player.js"></script>
+    <script src="./src/panel/Tabs.js"></script>
+    <script src="./src/panel/Filter.js"></script>
+    <script src="./src/panel/List.js"></script>
+    <script>
+      var DEBUG = true;
+      Rollbar.configure({enabled: false});
+    </script>
+    <!-- endinject -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-50069297-5', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+  </body>
+</html>

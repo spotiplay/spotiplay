@@ -1,0 +1,16 @@
+<md-list-item
+        ng-click="selectTag(item)"
+        class="md-2-line tracks"
+        ng-repeat="item in filtered_list | limitTo: data.filter.limit">
+    <div class="md-list-item-text">
+        <h3>{{ item.name }}</h3>
+        <ul class="tag-line">
+            <li ng-show="item.artists">
+                <i class="fa fa-user"></i> {{ item.artists }}
+            </li>
+            <li>
+                <i class="fa fa-music"></i> {{ item.tracks }}
+            </li>
+        </ul>
+    </div>
+</md-list-item>

@@ -1,0 +1,25 @@
+{
+  "name": "Spotiplay",
+  "version": "0.1.0",
+  "description": "Advanced player for Spotify",
+  "author": "garmoshka-mo <dan@dub.ink>",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server app -p 5000"
+  },
+  "dependencies": {
+    "gulp": "*",
+    "gulp-add-src": "^0.2.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-debug": "^2.0.1",
+    "gulp-inject": "^1.5.0",
+    "gulp-uglify": "^1.2.0",
+    "gulp-util": "*",
+    "run-sequence": "*"
+  },
+  "devDependencies": {
+    "gulp-add": "0.0.2"
+  }
+}

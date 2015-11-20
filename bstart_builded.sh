@@ -1,0 +1,1 @@
+http-server build -p 5000

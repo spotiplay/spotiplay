@@ -1,0 +1,16 @@
+<md-list-item
+        ng-click="selectTag(item)"
+        class="md-2-line playlists"
+        ng-repeat="item in filtered_list | limitTo: data.filter.limit">
+    <img ng-src="{{item.image || '/assets/no-artwork.jpg'}}" class="md-avatar" alt="{{item.name}}" />
+    <div class="md-list-item-text" ng-class="{'not-loaded': item.is_loaded != 'true'}">
+        <h3>
+            <i ng-show="item.is_mine == 'false'" class="fa fa-rss"></i>
+            {{ item.name }}
+        </h3>
+        <ul class="tag-line">
+            <li><i class="fa fa-music"></i> {{ item.total }}</li>
+            <li ng-show="item.followers > 0"><i class="fa fa-users" ></i> {{ item.followers }}</li>
+        </ul>
+    </div>
+</md-list-item>

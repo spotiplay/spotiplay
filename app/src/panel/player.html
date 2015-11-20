@@ -1,0 +1,38 @@
+<div layout="row" class="play-control" layout-align="start start">
+    <div class="total">
+        Total tracks: {{state.total}}
+    </div>
+    <div>
+        <md-button class="md-raised green-button" aria-label="Play" ng-click="play(button_play, false)">
+            <i class="fa" ng-class="button_play.queueing ? 'fa-spinner fa-spin' :  'fa-play'"></i>
+            Play
+        </md-button>
+    </div>
+    <div>
+        <md-button class="md-raised green-button" aria-label="Add to queue" ng-click="play(button_add, true)">
+            <i class="fa fa-plus-square-o" ng-class="button_add.queueing ? 'fa-spinner fa-spin' :  'fa-plus-square-o'"></i>
+            Add to queue
+        </md-button>
+    </div>
+</div>
+
+<div ng-show="spotify_uri" layout="row" class="play_options" layout-wrap>
+    <div class="web_url_container">
+        <a ng-href="{{web_url}}" target="_blank">
+            WEB link
+        </a>
+    </div>
+    <div>
+        <md-checkbox ng-model="open_web_automatically" aria-label="Open automatically">
+            Open automatically
+        </md-checkbox>
+    </div>
+    <div class="spotify_url_container">
+        <label for="spotify_uri">Spotify URI:</label>
+        <input ng-model="spotify_uri" readonly onclick="this.select()"
+               aria-label="Spotify URI" id="spotify_uri">
+        <md-tooltip md-direction="top">
+            You can insert this text to search field in <b>Spotify desktop player</b> to open there
+        </md-tooltip>
+    </div>
+</div>

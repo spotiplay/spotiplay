@@ -1,0 +1,51 @@
+
+.md-chips {
+    padding: 0 0 12px;
+}
+
+.md-chips .md-chip  {
+    height: inherit;
+    line-height: 18px;
+    margin: 6px 6px 0 0;
+    padding: 4px 7px 4px 12px;
+}
+
+.md-chips .md-chip .md-chip-remove {
+    height: inherit;
+    width: 15px;
+}
+.md-chips .md-chip .md-chip-remove-container{
+    margin-right: 0;
+}
+
+.md-chips .md-chip .md-chip-content {
+    white-space: inherit;
+}
+
+.md-chips .md-chip-input-container input {
+    height: 20px;
+    line-height: 20px;
+}
+
+.md-chips .md-chip-input-container {
+    padding-left: 5px;
+    margin-top: 4px !important;
+}
+
+.md-chips .md-chip-input-container md-autocomplete,
+.md-chips .md-chip-input-container md-autocomplete-wrap {
+    height: inherit;
+    padding-top: 2px;
+}
+
+md-icon {
+    color: #bbb;
+    padding-bottom: 8px;
+}
+
+md-chips .md-chip.md-focused {
+    background: #85bb22;
+}
+md-chips .md-chips.md-focused {
+    box-shadow: 0 2px #648f00;
+}

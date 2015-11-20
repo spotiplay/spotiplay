@@ -1,0 +1,56 @@
+<div class="filter_pane">
+    <div>
+        <div class="breadcrumbs">
+            <md-chips>
+                <md-chip ng-repeat="(key, tag) in tags">
+                    <span class="label">{{tag.name}}</span>
+                    <a class="close" ng-click="removeTag(key)">x</a>
+                    <md-tooltip>{{tag_type_titles[key]}}: {{tag.name}}</md-tooltip>
+                </md-chip>
+            </md-chips>
+        </div>
+    </div>
+    <div class="clear_tags_pane" ng-show="show_clear_tags">
+        <a ng-click="clear_tags()" aria-label="Clear tags">
+            <i class="fa fa-backward"></i>
+        </a>
+    </div>
+    <div>
+        <div style="width: 135px;  margin-right: 10px; margin-left: 10px;">
+            <md-input-container>
+                <label>Quick search</label>
+                <input ng-model="filter.fields.name">
+            </md-input-container>
+        </div>
+    </div>
+    <div>
+        <div style="margin-top: 15px;">
+            <md-button ng-click="filter.reverse = !filter.reverse"
+                       style="width: inherit;" class="md-icon-button" aria-label="More">
+                <i class="fa"
+                   ng-class="filter.reverse ? 'fa-angle-double-up' : 'fa-angle-double-down'"></i>
+            </md-button>
+        </div>
+        <div>
+            <md-select class="md-primary" placeholder="Arrange by" ng-model="filter.arrange_state">
+                <md-option ng-repeat="state in filter.arrange_options" ng-value="state">{{state.name}}</md-option>
+            </md-select>
+        </div>
+        <div>
+            <md-select class="md-primary" placeholder="Limit" ng-model="filter.limit">
+                <md-option ng-repeat="state in filter.limit_options" value="{{state}}">{{state}}</md-option>
+            </md-select>
+        </div>
+        <div class="switch_panel">
+            <md-switch class="md-mini" ng-model="ownership_options.mine" ng-disabled="tags.playlists" aria-label="Mine">
+                Mine
+            </md-switch>
+        </div>
+        <div class="switch_panel">
+            <md-switch class="md-mini" ng-model="ownership_options.followed" ng-disabled="tags.playlists" aria-label="Followed">
+                <i class="fa fa-rss"></i>
+                Followed
+            </md-switch>
+        </div>
+    </div>
+</div>

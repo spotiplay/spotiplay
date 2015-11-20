@@ -1,0 +1,40 @@
+
+md-list md-list-item.md-2-line .md-list-item-text h3 {
+    color: #bbb;
+    line-height: 18px !important;
+    margin-bottom: 0px !important;
+}
+md-list md-list-item button.md-button:not([disabled]):hover {
+    background-color: #333;
+}
+.playlists.md-2-line {
+
+}
+.playlists .md-list-item-text {
+    padding: 12px 0 7px !important;
+}
+.tracks .md-list-item-text {
+    padding: 8px 0 !important;
+}
+
+ul.tag-line {
+    font-size: 0.8em;
+    margin: 0;
+    color: #666;
+    line-height: 0;
+    padding: 8px 0;
+}
+ul.tag-line li {
+    display: inline-block;
+    padding-right: 8px;
+    white-space: nowrap;
+    overflow: hidden;
+    max-width: 250px;
+    text-overflow: ellipsis;
+}
+md-list md-list-item.md-2-line .md-list-item-text.not-loaded h3 {
+    color: #4a4a4a;
+}
+md-list md-list-item.md-2-line .md-list-item-text.not-loaded li {
+    color: #4a4a4a;
+}

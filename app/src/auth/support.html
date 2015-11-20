@@ -1,0 +1,29 @@
+<md-content id="content" class="md-padding start" layout="column">
+
+    <h3 class="md-headline">Contact form</h3>
+
+    <div layout layout-sm="column" style="max-width: 820px;">
+
+        <form name="userForm"
+              method="post" style="width: 300px"
+              action="https://getsimpleform.com/messages?form_api_token=417f24c1df377d6f82e0add5ca197c6d">
+
+            <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+            <input type='hidden' name='redirect_to' value='https://spotiplay.github.io/#/support/sent' />
+
+            <md-input-container>
+                <label>Email (optional)</label>
+                <input name="email" ng-model="user.email">
+            </md-input-container>
+
+            <md-input-container flex>
+                <label>Message</label>
+                <textarea name="message" ng-model="user.biography" columns="1" rows="5"></textarea>
+            </md-input-container>
+<br/>
+            <md-button class="md-raised green-button" type="submit">
+                Send Message
+            </md-button>
+        </form>
+    </div>
+</md-content>

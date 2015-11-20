@@ -1,0 +1,47 @@
+<md-content id="content" style="display: none;" layout-padding>
+    <div layout="row" layout-align="start start">
+        <div style="width: 100%">
+            <md-tabs md-selected="state.selectedIndex" md-dynamic-height md-border-bottom>
+                <md-tab ng-repeat="tab in tabs" label="{{tab.title}}"></md-tab>
+            </md-tabs>
+        </div>
+        <div style="width: 55px">
+            <md-button class="md-fab md-mini" aria-label="Reload" ng-click="refresh()">
+                <i class="fa fa-refresh" ng-class="music.state.is_reloading ? 'fa-spin' : ''"></i>
+            </md-button>
+        </div>
+        <div style="width: 55px">
+            <md-button class="md-mini" style="min-width: 0; padding: 1px 13px;" aria-label="Sign out" href="#/logout">
+                <i class="fa fa-sign-out"></i>
+            </md-button>
+        </div>
+    </div>
+
+    <filter filter="current_tab.filter"></filter>
+
+    <br style="clear:both"/>
+
+    <player ng-show="state.selectedIndex == 2"></player>
+
+    <md-progress-linear ng-show="state.reading_db" md-mode="indeterminate"
+                        style="margin-bottom: 200px" class="md-accent"></md-progress-linear>
+
+    <list ng-class="{hidden: state.reading_db}"></list>
+
+    <div layout="row"  ng-show="!state.reading_db && current_tab.filter.limit < state.total">
+        <div class="pagination">
+            Showing {{current_tab.filter.limit}} from {{state.total}}.
+            <a ng-click="loadMore()">Load more</a>
+        </div>
+    </div>
+
+    <div layout="row"  ng-show="current_tab.filter.the_only_track">
+        <div class="pagination">
+            Selected one track.
+            <a ng-click="resetTheOnlyTrack()">Show all</a>
+        </div>
+    </div>
+
+</md-content>
+<md-progress-linear id="preloader" style="padding-top: 25px;"
+                    md-mode="indeterminate" class="md-accent"></md-progress-linear>

@@ -1,0 +1,22 @@
+<md-list-item
+        ng-click="selectTrack(item)"
+        class="md-2-line tracks"
+        ng-repeat="item in filtered_list | limitTo: data.filter.limit">
+    <div class="md-list-item-text">
+        <h3>{{ item.name }}</h3>
+        <ul class="tag-line">
+            <li ng-show="item.artists">
+                <i class="fa fa-user"></i> {{ item.artists }}
+            </li>
+            <li ng-show="item.album">
+                <i class="fa fa-square-o" ></i> {{ item.album }}
+            </li>
+            <li>
+                <i class="fa fa-clock-o" ></i> {{ item.duration | timeFormat }}
+            </li>
+            <li ng-hide="item.idx===undefined">
+                <i class="fa fa-sort"></i>  {{item.idx+1}}
+            </li>
+        </ul>
+    </div>
+</md-list-item>
