@@ -15,7 +15,7 @@
         // spits notify(playlists) - paginated playlists
         function all() {
             var url = user_id == 'demo' ?
-                "/assets/demo-data/_playlists.json" :
+                "/assets/demo-data/a-playlists.json" :
                 "https://api.spotify.com/v1/users/"+user_id+"/playlists";
             
             return query(url,

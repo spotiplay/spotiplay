@@ -39,6 +39,8 @@
         }, 3600);
         
         $scope.play = function(button, add_to_the_end) {
+            if (user_id == 'demo') return Toast.demo_mode();
+            
           button.queueing = true;
           
           var tracks_ids = Music.filtered_list.map(function(item){

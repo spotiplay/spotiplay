@@ -18,6 +18,9 @@
         var scope = {};
         var something_wrong_last_shown_at = 0;
 
+        this.demo_mode = function() {
+            show('demo-mode', false);
+        };        
         this.show_slow_loading = function() {
             show('slow-loading', false);
         };
