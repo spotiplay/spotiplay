@@ -7,10 +7,15 @@ Advanced music manager for Spotify
 
 ![Screenshot](http://2.bp.blogspot.com/-303XBkSl13U/VcRfWA8TGQI/AAAAAAAAAo8/PlqiFkQtvSU/s1600/quick-search.png)
 
-# Tools
+# Run
 
-* `npm start` - to run `http-server` for development. 
- * goto `https://localhost:5000` (https is required by spotify specs)
+1. `npm install http-server -g`
+1. `npm start` 
+1. goto `https://localhost:5000` (https is required by spotify specs)
+
+# Build
+
+* `npm i`
 * `gulp` - to build
 * `bstart_builded.sh` - to run production build
 
