@@ -1,6 +1,6 @@
 # Spotiplay
 
-Advanced player for Spotify
+Advanced music manager for Spotify
 
 * [Check out live version](https://spotiplay.github.io/)
 * [About the project](http://garmoshka-mo.blogspot.com/2015/08/spotiplay.html)
@@ -9,7 +9,8 @@ Advanced player for Spotify
 
 # Tools
 
-* `npm start` - to run `http-server` for development. (HTTPS is required by spotify specs)
+* `npm start` - to run `http-server` for development. 
+ * goto `https://locahost:5000` (https is required by spotify specs)
 * `gulp` - to build
 * `bstart_builded.sh` - to run production build
 
