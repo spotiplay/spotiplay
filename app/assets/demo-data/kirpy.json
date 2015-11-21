@@ -1,0 +1,276 @@
+{
+  "followers": {
+    "total": 0
+  },
+  "id": "kirpy",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/5b62cf34b6d04252ba19633e0d0d0769fbf26308",
+      "width": 640
+    }
+  ],
+  "name": "кирпы12",
+  "owner": {
+    "id": "demo"
+  },
+  "snapshot_id": "mENgZ6M7/BeF7ccsXOvBGbfuJG4mlyQv08DLq7taAU0260TALnSB7K6rSey19TWr",
+  "tracks": {
+    "items": [
+      {
+        "added_at": "2015-07-22T09:09:35Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "05lTux3r0KicvkLcmtKV4T",
+            "name": "Summertime"
+          },
+          "artists": [
+            {
+              "id": "3g1D2gAI2YAQOw3uvt3siq",
+              "name": "Кирпичи"
+            }
+          ],
+          "duration_ms": 198986,
+          "id": "49983DEaQZEfcuKwypuFg2",
+          "name": "Опытный Мэн 2"
+        }
+      },
+      {
+        "added_at": "2015-07-22T09:09:57Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "05lTux3r0KicvkLcmtKV4T",
+            "name": "Summertime"
+          },
+          "artists": [
+            {
+              "id": "3g1D2gAI2YAQOw3uvt3siq",
+              "name": "Кирпичи"
+            }
+          ],
+          "duration_ms": 210613,
+          "id": "5QtipJaZvlDvq8NIqib4vE",
+          "name": "Summertime"
+        }
+      },
+      {
+        "added_at": "2015-07-22T09:10:01Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "05lTux3r0KicvkLcmtKV4T",
+            "name": "Summertime"
+          },
+          "artists": [
+            {
+              "id": "3g1D2gAI2YAQOw3uvt3siq",
+              "name": "Кирпичи"
+            }
+          ],
+          "duration_ms": 269920,
+          "id": "4DZVRzerebV69HIvirZLpd",
+          "name": "Lucky Guy"
+        }
+      },
+      {
+        "added_at": "2015-07-22T09:10:04Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "05lTux3r0KicvkLcmtKV4T",
+            "name": "Summertime"
+          },
+          "artists": [
+            {
+              "id": "3g1D2gAI2YAQOw3uvt3siq",
+              "name": "Кирпичи"
+            }
+          ],
+          "duration_ms": 243799,
+          "id": "2ZgCkTFwZ27YbMNMAKDAlR",
+          "name": "Russian Leto"
+        }
+      },
+      {
+        "added_at": "2015-07-22T09:10:24Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "05lTux3r0KicvkLcmtKV4T",
+            "name": "Summertime"
+          },
+          "artists": [
+            {
+              "id": "3g1D2gAI2YAQOw3uvt3siq",
+              "name": "Кирпичи"
+            }
+          ],
+          "duration_ms": 337586,
+          "id": "6xLlNrrgdk5WItnZusoVGx",
+          "name": "Happy Birthday"
+        }
+      },
+      {
+        "added_at": "2015-07-22T09:10:18Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "3Zkq8r5OwsbD5iPy2s8bhL",
+            "name": "Lyapis Crew Трубьют, Vol. 3"
+          },
+          "artists": [
+            {
+              "id": "3g1D2gAI2YAQOw3uvt3siq",
+              "name": "Кирпичи"
+            }
+          ],
+          "duration_ms": 120363,
+          "id": "4fUauG0YBOvdai8hNATc9t",
+          "name": "Харе"
+        }
+      },
+      {
+        "added_at": "2015-07-22T09:10:25Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "05lTux3r0KicvkLcmtKV4T",
+            "name": "Summertime"
+          },
+          "artists": [
+            {
+              "id": "3g1D2gAI2YAQOw3uvt3siq",
+              "name": "Кирпичи"
+            }
+          ],
+          "duration_ms": 209022,
+          "id": "5aJverrkMtYgmUfGRvLKna",
+          "name": "Going Down South"
+        }
+      },
+      {
+        "added_at": "2015-07-22T09:10:28Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "05lTux3r0KicvkLcmtKV4T",
+            "name": "Summertime"
+          },
+          "artists": [
+            {
+              "id": "3g1D2gAI2YAQOw3uvt3siq",
+              "name": "Кирпичи"
+            }
+          ],
+          "duration_ms": 179052,
+          "id": "2cLqlraSg6LA0s6ICUdSO2",
+          "name": "A.K.O.K"
+        }
+      },
+      {
+        "added_at": "2015-07-22T09:10:55Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "05lTux3r0KicvkLcmtKV4T",
+            "name": "Summertime"
+          },
+          "artists": [
+            {
+              "id": "3g1D2gAI2YAQOw3uvt3siq",
+              "name": "Кирпичи"
+            }
+          ],
+          "duration_ms": 134144,
+          "id": "7gy1SBUCujO7q9qrGRzYSK",
+          "name": "Shame"
+        }
+      },
+      {
+        "added_at": "2015-07-22T09:10:55Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "05lTux3r0KicvkLcmtKV4T",
+            "name": "Summertime"
+          },
+          "artists": [
+            {
+              "id": "3g1D2gAI2YAQOw3uvt3siq",
+              "name": "Кирпичи"
+            }
+          ],
+          "duration_ms": 146230,
+          "id": "54WTWZ12fTuOhw3mbVbViO",
+          "name": "Давайте Зажигать"
+        }
+      },
+      {
+        "added_at": "2015-07-22T09:10:55Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "05lTux3r0KicvkLcmtKV4T",
+            "name": "Summertime"
+          },
+          "artists": [
+            {
+              "id": "3g1D2gAI2YAQOw3uvt3siq",
+              "name": "Кирпичи"
+            },
+            {
+              "id": "0xdzcEAaAexQNWqHwRAW0A",
+              "name": "Nina Karlsson"
+            }
+          ],
+          "duration_ms": 173966,
+          "id": "7ovlaXpxGP1iJdpUbS4Slg",
+          "name": "Sage, Mein Freund"
+        }
+      },
+      {
+        "added_at": "2015-07-22T09:10:55Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "05lTux3r0KicvkLcmtKV4T",
+            "name": "Summertime"
+          },
+          "artists": [
+            {
+              "id": "3g1D2gAI2YAQOw3uvt3siq",
+              "name": "Кирпичи"
+            }
+          ],
+          "duration_ms": 183203,
+          "id": "7lDRqaxEVN6DXQwRD2FJwF",
+          "name": "Sunny Side Up"
+        }
+      },
+      {
+        "added_at": "2015-07-22T09:10:55Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "05lTux3r0KicvkLcmtKV4T",
+            "name": "Summertime"
+          },
+          "artists": [
+            {
+              "id": "3g1D2gAI2YAQOw3uvt3siq",
+              "name": "Кирпичи"
+            }
+          ],
+          "duration_ms": 142954,
+          "id": "4WNLoRnhadPJAUBjO5i4oK",
+          "name": "Goodbye"
+        }
+      }
+    ],
+    "next": null,
+    "offset": 0,
+    "total": 13
+  }
+}

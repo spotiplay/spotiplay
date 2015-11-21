@@ -1,0 +1,639 @@
+{
+  "followers": {
+    "total": 1
+  },
+  "id": "weekly",
+  "images": [
+    {
+      "height": null,
+      "url": "https://u.scdn.co/images/pl/default/311a7bc1fbcb4ed29c6652127ae4394c01ddccd7",
+      "width": null
+    }
+  ],
+  "name": "Discover Weekly",
+  "owner": {
+    "id": "spotifydiscover"
+  },
+  "snapshot_id": "Uui1NgUFdoh5jr+nSbqMbeYwaLv76k33dBrFudIXwkghHYp8dkv58qL+QB4DVzmH",
+  "tracks": {
+    "items": [
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "7rhZVplfUfwBkq3tB3cSGJ",
+            "name": "Crosswinds (US Release)"
+          },
+          "artists": [
+            {
+              "id": "0IwfuIL3gUJxjzUqY3wJ3j",
+              "name": "Billy Cobham"
+            }
+          ],
+          "duration_ms": 520533,
+          "id": "4mraRJO2iZA5WQ5dxlSQx9",
+          "name": "Heather"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "5pEhZ7NW5E7ZplNyuAajTJ",
+            "name": "Changed"
+          },
+          "artists": [
+            {
+              "id": "0KmzZnBEQyHCFOHW4dzdVk",
+              "name": "Mario & Vidis"
+            }
+          ],
+          "duration_ms": 525293,
+          "id": "78mNBi4AZNc5QPCPFDSkKh",
+          "name": "Changed - Andre Lodemann Remix"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "4TcCL29jgD69v38woQX85i",
+            "name": "Stan Getz: The Bossa Nova Albums"
+          },
+          "artists": [
+            {
+              "id": "0FMucZsEnCxs5pqBjHjIc8",
+              "name": "Stan Getz"
+            },
+            {
+              "id": "0i5yrKtlP4URcRBXQQwnik",
+              "name": "Charlie Byrd"
+            }
+          ],
+          "duration_ms": 349080,
+          "id": "4P3b8LpWgQg1sFSbsWxjUE",
+          "name": "Desafinado"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "2Io8zxE1NIbjP4M8E9mCF5",
+            "name": "1, 2, To the Bass"
+          },
+          "artists": [
+            {
+              "id": "1lGt9WgdYGpMnmwGkcCm05",
+              "name": "Stanley Clarke"
+            },
+            {
+              "id": "3ZotbHeyVQKxQCPDJuQ4SU",
+              "name": "Q-Tip"
+            }
+          ],
+          "duration_ms": 355106,
+          "id": "7nox2rQqxNaJpTzPNjXran",
+          "name": "1, 2, To the Bass"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "1OmzfVtQH8lLyUbCRM71yJ",
+            "name": "Elements Series IV: Agua"
+          },
+          "artists": [
+            {
+              "id": "3bVYqr2NfmwmL4YJisWhJI",
+              "name": "Dubfire"
+            },
+            {
+              "id": "0NBGssQpgDczTsVEp4pCbR",
+              "name": "Oliver Huntemann"
+            },
+            {
+              "id": "43QchWzol8d0uyKcpTZj0y",
+              "name": "Xenia Beliayeva"
+            }
+          ],
+          "duration_ms": 485837,
+          "id": "42qasQEwP1twSYRQjHzy8U",
+          "name": "Agua"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "5nD7KbNhsKsrIpI3OK1OGf",
+            "name": "Pins & Digits"
+          },
+          "artists": [
+            {
+              "id": "5gBHhcHWRGFsxYVtkHUSfj",
+              "name": "Julien Dyne"
+            }
+          ],
+          "duration_ms": 232733,
+          "id": "2Ambm9kVL5QZ6qB2OTbbDP",
+          "name": "Layer ft. Mara TK"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "7GHmT5iFfgdVvDJhcBoEIy",
+            "name": "The Return Of The Magnificent (instrumental)"
+          },
+          "artists": [
+            {
+              "id": "3nmiIgeri4vEY7y0VpbsCn",
+              "name": "DJ Jazzy Jeff"
+            }
+          ],
+          "duration_ms": 313773,
+          "id": "0MXfw3Cm6PBHFU5UuZnyua",
+          "name": "Come On feat. Dave Ghetto - Instrumental"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "2EACJcnL3aEE0mbYN5Dw2m",
+            "name": "Ela por Eles (Remixes)"
+          },
+          "artists": [
+            {
+              "id": "7cfKXiA9YUupXEjCUWPtxY",
+              "name": "Dom La Nena"
+            }
+          ],
+          "duration_ms": 229715,
+          "id": "4TPCmbzzf7rIFsLzcwF9pm",
+          "name": "Batuque (Jeremy Sole & Atropolis Remix)"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "60Z2EYs0Qjzm3aypQY6SFB",
+            "name": "Berlin"
+          },
+          "artists": [
+            {
+              "id": "3nuc9mXg83ZrKWMdwuHUnt",
+              "name": "Underset"
+            }
+          ],
+          "duration_ms": 414875,
+          "id": "1E12LScVoDQ9ZW4bhrCGgh",
+          "name": "Berlin"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "72SewQi25udiju3kYeNj1e",
+            "name": "Just Escape"
+          },
+          "artists": [
+            {
+              "id": "4FN8WHqUbwkd97WEjoCu7B",
+              "name": "Justin Martin"
+            },
+            {
+              "id": "5XLCzGXQKDHj5iQ2Z4zSKt",
+              "name": "Escape"
+            }
+          ],
+          "duration_ms": 372019,
+          "id": "16IUsLDKVsxzzKq0KSgWbS",
+          "name": "Just Escape - Justin Martin Remix"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "3JxwZolHxOjRaVMFYJULRi",
+            "name": "Think Twice"
+          },
+          "artists": [
+            {
+              "id": "3Fd5JAQgfVLVHq8JlmkFoF",
+              "name": "Palov & Mishkin"
+            }
+          ],
+          "duration_ms": 196360,
+          "id": "2qHkLXNxUl5E6rLfIdDTEB",
+          "name": "Theme from backslam"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "7ghmfIJeLHIMSwj8VoXnBl",
+            "name": "Black Radio Recovered: The Remix EP"
+          },
+          "artists": [
+            {
+              "id": "5cM1PvItlR21WUyBnsdMcn",
+              "name": "Robert Glasper"
+            },
+            {
+              "id": "5SyCTZ8X8YQCI0J1VRp4iC",
+              "name": "Phonte"
+            },
+            {
+              "id": "7IfculRW2WXyzNQ8djX8WX",
+              "name": "Erykah Badu"
+            }
+          ],
+          "duration_ms": 307440,
+          "id": "1kKLWkqyZEnrOd5tBYYCUn",
+          "name": "Afro Blue (9th Wonder's Blue Light Basement Remix) [feat. Erykah Badu and Phonte]"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0cp4KALiHrlNJej5FENNdr",
+            "name": "Less Is More"
+          },
+          "artists": [
+            {
+              "id": "6xIXch03AK6grENT8RlmeF",
+              "name": "Gelka"
+            }
+          ],
+          "duration_ms": 253346,
+          "id": "0XNxAfii4il3JRzF91rqB2",
+          "name": "Soon"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0tDaldQZb0L4jsIbEJnNhF",
+            "name": "The Complete Louis Armstrong - Duke Ellington Sessions"
+          },
+          "artists": [
+            {
+              "id": "19eLuQmk9aCobbVDHc6eek",
+              "name": "Louis Armstrong"
+            },
+            {
+              "id": "4F7Q5NV6h5TSwCainz8S5A",
+              "name": "Duke Ellington"
+            }
+          ],
+          "duration_ms": 240040,
+          "id": "1EzGtQRzHlP3xNvzNalgvZ",
+          "name": "Mood Indigo"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "52DP2RfrNxvpm6Ju8r4KJ8",
+            "name": "Love Haters"
+          },
+          "artists": [
+            {
+              "id": "4mIBV7YPjs5Y5QrLEeONNu",
+              "name": "Re Dupre"
+            },
+            {
+              "id": "28uJnu5EsrGml2tBd7y8ts",
+              "name": "Vintage Culture"
+            }
+          ],
+          "duration_ms": 299016,
+          "id": "25hKHHspjjlRxKFEgniAkz",
+          "name": "C.R.E.A.M. - Original Mix"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "1dx3U2oQ92AkxVXbK6dWuP",
+            "name": "Make 'em Like It"
+          },
+          "artists": [
+            {
+              "id": "4r4tRC1EUpfUCLjwQXP5EA",
+              "name": "Brooklyn Funk Essentials"
+            }
+          ],
+          "duration_ms": 291000,
+          "id": "3TEzZmxFyql9Q4GTnb3DGL",
+          "name": "I Got Cash"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0ainP4eddNILFKFg0S77wa",
+            "name": "The ChinChin Sessions"
+          },
+          "artists": [
+            {
+              "id": "3ea1ZpptTqS5pwYYpQQVCo",
+              "name": "Club des Belugas"
+            },
+            {
+              "id": "5O24vTfUW5MXczhaLCrBkQ",
+              "name": "Thomas Siffling"
+            }
+          ],
+          "duration_ms": 262990,
+          "id": "6p3Ejjr1znzElR5RWfxCbz",
+          "name": "Affair in Cascais"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "6DBjU6AURtivNiRjtPBuWc",
+            "name": "City Life"
+          },
+          "artists": [
+            {
+              "id": "0FBRY66KVaAiddGVefikLB",
+              "name": "Weiss (UK)"
+            }
+          ],
+          "duration_ms": 370805,
+          "id": "76pII5xMqLGoUOWeQQF69U",
+          "name": "My Sister - Original Mix"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "7GuS63e6BG71ZBhQRWhh5f",
+            "name": "Woman of the Ghetto"
+          },
+          "artists": [
+            {
+              "id": "0hirZ8kPPdM9pzXpoagB4w",
+              "name": "Marlena Shaw"
+            }
+          ],
+          "duration_ms": 301952,
+          "id": "0yomhqoETEC3360pML8nEx",
+          "name": "Woman of the Ghetto - Akshin Alizadeh Remix"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "2UDoofzJaFzCgMelCDxmKw",
+            "name": "Worldwide Underground"
+          },
+          "artists": [
+            {
+              "id": "7IfculRW2WXyzNQ8djX8WX",
+              "name": "Erykah Badu"
+            }
+          ],
+          "duration_ms": 194160,
+          "id": "4k6rsUjAN57gPoPxwIND8r",
+          "name": "Woo"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "72Jy404LHwzW4Cwcbl68BR",
+            "name": "And The Big Red Nebula Band"
+          },
+          "artists": [
+            {
+              "id": "7l9MYefk0544OMaA9wIPDW",
+              "name": "Fingathing"
+            }
+          ],
+          "duration_ms": 301000,
+          "id": "41qmtGTNNLye4EeYHi2ZCg",
+          "name": "Walk in Space"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "2eqogtnJoWV4IgAnEnQxVK",
+            "name": "MJA"
+          },
+          "artists": [
+            {
+              "id": "5pTdjKc68oWtRFeh9T1dep",
+              "name": "Metropolitan Jazz Affair"
+            }
+          ],
+          "duration_ms": 302160,
+          "id": "5r4NnfHAV2v7S6OYZeBcxS",
+          "name": "Chasing Places"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0X1R9oJfADbmCxXb4II8G8",
+            "name": "Waltz for Koop"
+          },
+          "artists": [
+            {
+              "id": "7wyBxBXLVLaiF2jxHCpvTe",
+              "name": "Koop"
+            }
+          ],
+          "duration_ms": 174626,
+          "id": "0AbWcaFA1bsObTMmsgPnBo",
+          "name": "Tonight"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "6IoZzmLWjNLruCmqvlPOPV",
+            "name": "III"
+          },
+          "artists": [
+            {
+              "id": "65dGLGjkw3UbddUg2GKQoZ",
+              "name": "BadBadNotGood"
+            },
+            {
+              "id": "2QobOeybSvyibNUGIobnlP",
+              "name": "Leland Whitty"
+            }
+          ],
+          "duration_ms": 300995,
+          "id": "1K5RjfNOb6OLnQcAUv6M6b",
+          "name": "Confessions (feat. Leland Whitty)"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "50FMzSN3HV4PI7ryK3lLQn",
+            "name": "The Ultimate Blue Train"
+          },
+          "artists": [
+            {
+              "id": "2hGh5VOeeqimQFxqXvfCUf",
+              "name": "John Coltrane"
+            }
+          ],
+          "duration_ms": 641840,
+          "id": "55iRqCDzLUhVfEkEaPAPtL",
+          "name": "Blue Train - Enhanced CD Version;1997 Digital Remaster"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "1L9qDU1MVtj6mkc8CEE8y7",
+            "name": "Dionne / What Gets You High?"
+          },
+          "artists": [
+            {
+              "id": "4mHngi71hWNKTRuyl3W9FY",
+              "name": "Osunlade"
+            }
+          ],
+          "duration_ms": 256016,
+          "id": "544LVQh9D4e15YPq1rlJg6",
+          "name": "Dionne"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "5sG4aODV6qWPX0J7omBcnC",
+            "name": "The Groove Sessions, Vol. 2"
+          },
+          "artists": [
+            {
+              "id": "6vgw0jwJkUnW2NR1rzsQU3",
+              "name": "Chinese Man"
+            }
+          ],
+          "duration_ms": 218359,
+          "id": "5NbasL13ZyTu02X1R5XILi",
+          "name": "Ordinary Man"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "06gaOfTDym5Jf8FZNxwCnZ",
+            "name": "Midnight Special (Rudy Van Gelder Edition)"
+          },
+          "artists": [
+            {
+              "id": "5GXruybcLmXPjR9rKKFyS6",
+              "name": "Jimmy Smith"
+            }
+          ],
+          "duration_ms": 597280,
+          "id": "6oWhUfePc5h9r5pfw7wvPN",
+          "name": "Midnight Special - 2007 Digital Remaster"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "11cpAynoDMZFD0B2xtw6OQ",
+            "name": "Human After All (Remixes)"
+          },
+          "artists": [
+            {
+              "id": "4tZwfgrHOc3mvqYlEYSvVi",
+              "name": "Daft Punk"
+            }
+          ],
+          "duration_ms": 390506,
+          "id": "0BEDdX7TWPEt1gWnbVbHdN",
+          "name": "Robot Rock - Soulwax Remix"
+        }
+      },
+      {
+        "added_at": "2015-11-16T09:15:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0L7pKXMPAtG71kA7XcAXXE",
+            "name": "One Deep Day"
+          },
+          "artists": [
+            {
+              "id": "4WDYYguvP3oxLxmVjHiSYs",
+              "name": "Praful"
+            }
+          ],
+          "duration_ms": 349693,
+          "id": "1jGaxgLKWqmMgjkJxF3XN5",
+          "name": "One Day Deep"
+        }
+      }
+    ],
+    "next": null,
+    "offset": 0,
+    "total": 30
+  }
+}

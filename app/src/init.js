@@ -33,7 +33,7 @@ spoti.config(['$mdThemingProvider', function($mdThemingProvider){
         $routeProvider
             .when('/', {
                 controller:'HomeController as ctrl',
-                templateUrl:'src/auth/home.html'
+                templateUrl:'src/front/home.html'
             })
             .when('/auth', {
                 controller:'AuthController as ctrl',
@@ -45,15 +45,11 @@ spoti.config(['$mdThemingProvider', function($mdThemingProvider){
             })
             .when('/support', {
                 controller:'SupportController as ctrl',
-                templateUrl:'src/auth/support.html'
+                templateUrl:'src/front/support.html'
             })
             .when('/support/sent', {
                 controller:'SupportController as ctrl',
-                templateUrl:'src/auth/support-sent.html'
-            })
-            .when('/tags', {
-                controller:'TagsController as ctrl',
-                templateUrl:'src/tags/view.html'
+                templateUrl:'src/front/support-sent.html'
             })
             .when('/panel', {
                 controller:'PanelController as ctrl',
@@ -65,7 +61,7 @@ spoti.config(['$mdThemingProvider', function($mdThemingProvider){
             })
             .otherwise({
                 controller:'HomeController as ctrl',
-                templateUrl:'src/auth/home.html'
+                templateUrl:'src/front/home.html'
             });
     }])
     .config(['$provide', function ($provide) {
@@ -89,13 +85,13 @@ spoti.config(['$mdThemingProvider', function($mdThemingProvider){
             // Pure JavaScript errors handler
             window.addEventListener('error', function (err) {
                 Rollbar.error(err);
-                if (toast_something_wrong) toast_something_wrong();
+                //if (toast_something_wrong) toast_something_wrong();
             });
 
             return function (exception, cause) {
                 $delegate(exception, cause);
                 Rollbar.error(exception);
-                if (toast_something_wrong) toast_something_wrong();
+                //if (toast_something_wrong) toast_something_wrong();
             };
         }]);
     }]);

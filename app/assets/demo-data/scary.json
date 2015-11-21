@@ -1,0 +1,348 @@
+{
+  "followers": {
+    "total": 0
+  },
+  "id": "scary",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/d50a1c096d4e4effa1af6a128d831fb608eece32",
+      "width": 640
+    }
+  ],
+  "name": "SCARY",
+  "owner": {
+    "id": "demo"
+  },
+  "snapshot_id": "mEpLK2napFSPKGE6ulJd7dgesRVji7jbKDCztxdG1EsCx0RUdUT76oaO5A3xQ+TK",
+  "tracks": {
+    "items": [
+      {
+        "added_at": "2015-10-10T16:15:28Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0YYfKQwXnY0xgQkFvBKGjY",
+            "name": "A Nightmare On Elm Street"
+          },
+          "artists": [
+            {
+              "id": "0cM9EbovGFwSQlWjgHmdGd",
+              "name": "Nick Glennie-Smith"
+            }
+          ],
+          "duration_ms": 268826,
+          "id": "2N1GlGVbpx4wlUZJeLRUPG",
+          "name": "FREDDY'S COMING FOR YOU"
+        }
+      },
+      {
+        "added_at": "2015-10-10T16:15:28Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0YYfKQwXnY0xgQkFvBKGjY",
+            "name": "A Nightmare On Elm Street"
+          },
+          "artists": [
+            {
+              "id": "0cM9EbovGFwSQlWjgHmdGd",
+              "name": "Nick Glennie-Smith"
+            }
+          ],
+          "duration_ms": 155760,
+          "id": "4CupN3xZfHbcwYSFRqqXtl",
+          "name": "MAIN TITLE"
+        }
+      },
+      {
+        "added_at": "2015-10-10T16:15:28Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0YYfKQwXnY0xgQkFvBKGjY",
+            "name": "A Nightmare On Elm Street"
+          },
+          "artists": [
+            {
+              "id": "0cM9EbovGFwSQlWjgHmdGd",
+              "name": "Nick Glennie-Smith"
+            }
+          ],
+          "duration_ms": 142813,
+          "id": "2tBprrhRYYhOX1TKlsYyxw",
+          "name": "MISSING PICTURES"
+        }
+      },
+      {
+        "added_at": "2015-10-10T16:15:28Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0YYfKQwXnY0xgQkFvBKGjY",
+            "name": "A Nightmare On Elm Street"
+          },
+          "artists": [
+            {
+              "id": "0cM9EbovGFwSQlWjgHmdGd",
+              "name": "Nick Glennie-Smith"
+            }
+          ],
+          "duration_ms": 94093,
+          "id": "05H02yc1EOn5mSEOORUcTN",
+          "name": "RUFUS?"
+        }
+      },
+      {
+        "added_at": "2015-10-10T16:15:28Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0YYfKQwXnY0xgQkFvBKGjY",
+            "name": "A Nightmare On Elm Street"
+          },
+          "artists": [
+            {
+              "id": "0cM9EbovGFwSQlWjgHmdGd",
+              "name": "Nick Glennie-Smith"
+            }
+          ],
+          "duration_ms": 108546,
+          "id": "2QWGCPwDfeY6IFpP82xApp",
+          "name": "QUIET DRIVE"
+        }
+      },
+      {
+        "added_at": "2015-10-10T16:15:28Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0YYfKQwXnY0xgQkFvBKGjY",
+            "name": "A Nightmare On Elm Street"
+          },
+          "artists": [
+            {
+              "id": "0cM9EbovGFwSQlWjgHmdGd",
+              "name": "Nick Glennie-Smith"
+            }
+          ],
+          "duration_ms": 68026,
+          "id": "2I4xdbirsYKvMq4Nx8IIU4",
+          "name": "JESSE AND KRIS"
+        }
+      },
+      {
+        "added_at": "2015-10-10T16:15:28Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0YYfKQwXnY0xgQkFvBKGjY",
+            "name": "A Nightmare On Elm Street"
+          },
+          "artists": [
+            {
+              "id": "0cM9EbovGFwSQlWjgHmdGd",
+              "name": "Nick Glennie-Smith"
+            }
+          ],
+          "duration_ms": 170533,
+          "id": "1dXGQ4qIc4TpJwbYSwIpbQ",
+          "name": "JESSE AND THE POLICE"
+        }
+      },
+      {
+        "added_at": "2015-10-10T16:15:28Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0YYfKQwXnY0xgQkFvBKGjY",
+            "name": "A Nightmare On Elm Street"
+          },
+          "artists": [
+            {
+              "id": "0cM9EbovGFwSQlWjgHmdGd",
+              "name": "Nick Glennie-Smith"
+            }
+          ],
+          "duration_ms": 134013,
+          "id": "2xIBFQarw45J9iIaNZS3dm",
+          "name": "YOU SMELL DIFFERENT"
+        }
+      },
+      {
+        "added_at": "2015-10-10T16:15:28Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0YYfKQwXnY0xgQkFvBKGjY",
+            "name": "A Nightmare On Elm Street"
+          },
+          "artists": [
+            {
+              "id": "0cM9EbovGFwSQlWjgHmdGd",
+              "name": "Nick Glennie-Smith"
+            }
+          ],
+          "duration_ms": 303626,
+          "id": "1dwFrQ0XGe3jQtjLpjYPJw",
+          "name": "A MAN NAMED FRED KRUEGER"
+        }
+      },
+      {
+        "added_at": "2015-10-10T16:15:28Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0YYfKQwXnY0xgQkFvBKGjY",
+            "name": "A Nightmare On Elm Street"
+          },
+          "artists": [
+            {
+              "id": "0cM9EbovGFwSQlWjgHmdGd",
+              "name": "Nick Glennie-Smith"
+            }
+          ],
+          "duration_ms": 142226,
+          "id": "78WMZvdyIlLF8aUTVO9xA3",
+          "name": "RESEARCH"
+        }
+      },
+      {
+        "added_at": "2015-10-10T16:15:28Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0YYfKQwXnY0xgQkFvBKGjY",
+            "name": "A Nightmare On Elm Street"
+          },
+          "artists": [
+            {
+              "id": "0cM9EbovGFwSQlWjgHmdGd",
+              "name": "Nick Glennie-Smith"
+            }
+          ],
+          "duration_ms": 192693,
+          "id": "7dO9MLyJhRQp77iW4BJfrv",
+          "name": "IT'S HOT IN HERE"
+        }
+      },
+      {
+        "added_at": "2015-10-10T16:15:28Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0YYfKQwXnY0xgQkFvBKGjY",
+            "name": "A Nightmare On Elm Street"
+          },
+          "artists": [
+            {
+              "id": "0cM9EbovGFwSQlWjgHmdGd",
+              "name": "Nick Glennie-Smith"
+            }
+          ],
+          "duration_ms": 52533,
+          "id": "1dlYtHvFZwK2da9265MFlk",
+          "name": "THE SCHOOL"
+        }
+      },
+      {
+        "added_at": "2015-10-10T16:15:28Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0YYfKQwXnY0xgQkFvBKGjY",
+            "name": "A Nightmare On Elm Street"
+          },
+          "artists": [
+            {
+              "id": "0cM9EbovGFwSQlWjgHmdGd",
+              "name": "Nick Glennie-Smith"
+            }
+          ],
+          "duration_ms": 291546,
+          "id": "5k7KzBQGnn6HrMZeR36FPJ",
+          "name": "WHERE THE MONSTER LIVES"
+        }
+      },
+      {
+        "added_at": "2015-10-10T16:15:28Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0YYfKQwXnY0xgQkFvBKGjY",
+            "name": "A Nightmare On Elm Street"
+          },
+          "artists": [
+            {
+              "id": "0cM9EbovGFwSQlWjgHmdGd",
+              "name": "Nick Glennie-Smith"
+            }
+          ],
+          "duration_ms": 295933,
+          "id": "5g8XxuQ0oiWH8ZjXaIdhb3",
+          "name": "WAKE ME UP"
+        }
+      },
+      {
+        "added_at": "2015-10-10T16:15:28Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0YYfKQwXnY0xgQkFvBKGjY",
+            "name": "A Nightmare On Elm Street"
+          },
+          "artists": [
+            {
+              "id": "0cM9EbovGFwSQlWjgHmdGd",
+              "name": "Nick Glennie-Smith"
+            }
+          ],
+          "duration_ms": 66066,
+          "id": "49vgFWu6SzB0qbgzsEkJ7m",
+          "name": "BOO"
+        }
+      },
+      {
+        "added_at": "2015-10-10T16:15:28Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0YYfKQwXnY0xgQkFvBKGjY",
+            "name": "A Nightmare On Elm Street"
+          },
+          "artists": [
+            {
+              "id": "0cM9EbovGFwSQlWjgHmdGd",
+              "name": "Nick Glennie-Smith"
+            }
+          ],
+          "duration_ms": 332853,
+          "id": "0Q3BMviVg8VR8TsbqN7TQV",
+          "name": "LIKE IT USED TO BE"
+        }
+      },
+      {
+        "added_at": "2015-10-10T16:15:28Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0YYfKQwXnY0xgQkFvBKGjY",
+            "name": "A Nightmare On Elm Street"
+          },
+          "artists": [
+            {
+              "id": "0cM9EbovGFwSQlWjgHmdGd",
+              "name": "Nick Glennie-Smith"
+            }
+          ],
+          "duration_ms": 164440,
+          "id": "0ktxfXEsb0UwjUvc6AYduy",
+          "name": "ONE MORE NAP"
+        }
+      }
+    ],
+    "next": null,
+    "offset": 0,
+    "total": 17
+  }
+}

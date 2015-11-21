@@ -96,6 +96,7 @@ gulp.task('copy_static', function(){
     var filesToCopy = [
         './app/src/**/*.html',
         './app/favicon.ico',
+        './app/assets/demo-data/*.json',
         './app/assets/*.png',
         './app/assets/*.jpg',
         './app/assets/lib/angular-material.min.css'

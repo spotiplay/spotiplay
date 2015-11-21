@@ -12,8 +12,13 @@
             add_tracks: add_tracks
         };
 
+        // spits notify(playlists) - paginated playlists
         function all() {
-            return query("https://api.spotify.com/v1/users/"+user_id+"/playlists",
+            var url = user_id == 'demo' ?
+                "/assets/demo-data/_playlists.json" :
+                "https://api.spotify.com/v1/users/"+user_id+"/playlists";
+            
+            return query(url,
                 new Resolver(function(data){
                     this.deferred.notify(data);
                     if (data.next) {
@@ -64,11 +69,17 @@
             return deferred.promise;
         }
 
+        // first spits one notify({type: 'playlist', data: .. }), 
+        // then many notify({type: 'tracks', data .. })
         function details(owner_id, playlist_id, with_tracklist) {
-            return query("https://api.spotify.com/v1/users/"+owner_id+"/playlists/"+playlist_id+'?fields='+playlists_fields,
+            var url = user_id == 'demo' ?
+                "/assets/demo-data/"+playlist_id+".json" :
+                "https://api.spotify.com/v1/users/"+owner_id+"/playlists/"+playlist_id+'?fields='+playlists_fields;
+            return query(url,
                 new Resolver(function(data){
                     var tracks;
 
+                    // By default load track only for own playlists:
                     if (typeof with_tracklist == 'undefined')
                         with_tracklist = data.owner.id==user_id;
 

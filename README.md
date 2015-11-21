@@ -9,7 +9,7 @@ Advanced player for Spotify
 
 # Tools
 
-* `npm start` - to run `http-server` for development
+* `npm start` - to run `http-server` for development. (HTTPS is required by spotify specs)
 * `gulp` - to build
 * `bstart_builded.sh` - to run production build
 

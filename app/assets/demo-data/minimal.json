@@ -1,0 +1,2093 @@
+{
+  "followers": {
+    "total": 5800
+  },
+  "id": "minimal",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/f9a609d45d94a7f4db27c3555c875c2ce5ea93f5211c57e5dfe4158dad588a6e6f2446ee73a5928aebad44d5e3c3ff910bd31ffb161a390817056282a0e188b110c72cc95990e42f23558fea3e43173e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/f9a609d45d94a7f4db27c3555c875c2ce5ea93f5211c57e5dfe4158dad588a6e6f2446ee73a5928aebad44d5e3c3ff910bd31ffb161a390817056282a0e188b110c72cc95990e42f23558fea3e43173e",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/f9a609d45d94a7f4db27c3555c875c2ce5ea93f5211c57e5dfe4158dad588a6e6f2446ee73a5928aebad44d5e3c3ff910bd31ffb161a390817056282a0e188b110c72cc95990e42f23558fea3e43173e",
+      "width": 60
+    }
+  ],
+  "name": "Minimal",
+  "owner": {
+    "id": "electr0nic_dealer"
+  },
+  "snapshot_id": "7C3/VteoaG7d1PmY4D3gyxYTsvAuhXmb5QIvjtpMVt79xwWdEAHTuH5DuwPfZnxw",
+  "tracks": {
+    "items": [
+      {
+        "added_at": "2011-06-28T15:09:31Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "5W60uQb5u7EoXtGxFWjfgr",
+            "name": "Sycamore Feeling"
+          },
+          "artists": [
+            {
+              "id": "4O71i7ke5iIBX6RNSFoZbS",
+              "name": "Trentemøller"
+            }
+          ],
+          "duration_ms": 436123,
+          "id": "1Z1hpYNl6vW4HUHmrSM2lZ",
+          "name": "Sycamore Feeling - Gui Boratto Remix"
+        }
+      },
+      {
+        "added_at": "2011-08-16T12:05:03Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "4BRnNrGKqgEE5ncmi9O00K",
+            "name": "Revox"
+          },
+          "artists": [
+            {
+              "id": "1YnP2tx44VI0JIj9Y9h8Jj",
+              "name": "Tim Green"
+            }
+          ],
+          "duration_ms": 414800,
+          "id": "0SaX5CmyJ5pjC9Mu1LWuaT",
+          "name": "Revox"
+        }
+      },
+      {
+        "added_at": "2011-08-18T09:15:15Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "2edMtCQL3YjvX4LZlt1Ytw",
+            "name": "Harmonisch Serie"
+          },
+          "artists": [
+            {
+              "id": "0WSSKmoRbxqLf3MnXInQ2J",
+              "name": "Max Cooper"
+            }
+          ],
+          "duration_ms": 533343,
+          "id": "6CkIKkafORmB2rcKahUA4l",
+          "name": "Harmonisch Serie"
+        }
+      },
+      {
+        "added_at": "2011-08-18T09:15:18Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "5aSfbMUAOwF0WDqObazS4w",
+            "name": "Stochastisch Serie"
+          },
+          "artists": [
+            {
+              "id": "0WSSKmoRbxqLf3MnXInQ2J",
+              "name": "Max Cooper"
+            }
+          ],
+          "duration_ms": 369158,
+          "id": "6aC6wZM7cBxhExA2NO3pAM",
+          "name": "Stochastisch Serie"
+        }
+      },
+      {
+        "added_at": "2012-01-23T11:38:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "2qfaY9GsOWfMSpCJzfr1HG",
+            "name": "Reflections"
+          },
+          "artists": [
+            {
+              "id": "2yPveJtn9DpeN0CgNJHvAQ",
+              "name": "Stimming"
+            }
+          ],
+          "duration_ms": 434749,
+          "id": "01gqP6pHjuegINMFW0NzOM",
+          "name": "Song For Isabelle"
+        }
+      },
+      {
+        "added_at": "2012-01-23T12:08:11Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "47r43yvGckyeqlzpnOhZA8",
+            "name": "What Is What"
+          },
+          "artists": [
+            {
+              "id": "6OQOvP7RAdmAKVXXQqD0Se",
+              "name": "Pan-Pot"
+            }
+          ],
+          "duration_ms": 577346,
+          "id": "7xLHA3i97ueCMt69iNVQwu",
+          "name": "Wake Up - Original"
+        }
+      },
+      {
+        "added_at": "2012-01-24T16:18:45Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "7Ak46Ay7uqFSlmDg9CsRnp",
+            "name": "Die Maschinen Sind Gestrandet"
+          },
+          "artists": [
+            {
+              "id": "6caPJFLv1wesmM7gwK1ACy",
+              "name": "Boris Brejcha"
+            }
+          ],
+          "duration_ms": 435839,
+          "id": "6wyPFBpgmhNRIE6pxRQ3hE",
+          "name": "Verstaubter Fruchtzucker"
+        }
+      },
+      {
+        "added_at": "2012-02-06T14:30:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "5yvXTzRgQw2QXVugCjBap6",
+            "name": "Gänseblümchen"
+          },
+          "artists": [
+            {
+              "id": "2yPveJtn9DpeN0CgNJHvAQ",
+              "name": "Stimming"
+            }
+          ],
+          "duration_ms": 433512,
+          "id": "40g3DDqHwgKfVqYE5mpZ9p",
+          "name": "Gänseblümchen - Original Mix"
+        }
+      },
+      {
+        "added_at": "2012-02-13T15:00:47Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "1okuGuR8xyS3irMSvxz4C5",
+            "name": "H-3"
+          },
+          "artists": [
+            {
+              "id": "0NBGssQpgDczTsVEp4pCbR",
+              "name": "Oliver Huntemann"
+            }
+          ],
+          "duration_ms": 491536,
+          "id": "6WFUZdqk8h1NKjgIcOoelE",
+          "name": "Dauerplus"
+        }
+      },
+      {
+        "added_at": "2012-04-06T09:15:39Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "173eL8LOalcV39QJW3ZjZF",
+            "name": "Ibiza Underground 2011"
+          },
+          "artists": [
+            {
+              "id": "5eWbdoIDCRxrPyiv7TEtw8",
+              "name": "Anthony Rother"
+            }
+          ],
+          "duration_ms": 343680,
+          "id": "61XDB7gdQn7KeKr5DhKym1",
+          "name": "Man Up The Hill - Gui Boratto Remix"
+        }
+      },
+      {
+        "added_at": "2012-04-16T09:50:01Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "2LF1TxqQYNrH8mCyyuG12W",
+            "name": "Berlin Calling - The Soundtrack by Paul Kalkbrenner"
+          },
+          "artists": [
+            {
+              "id": "0rasA5Z5h1ITtHelCpfu9R",
+              "name": "Paul Kalkbrenner"
+            }
+          ],
+          "duration_ms": 360839,
+          "id": "3viy7i8ADUA6BMzMx61eGV",
+          "name": "Aaron"
+        }
+      },
+      {
+        "added_at": "2012-04-17T13:28:22Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0hkGOu5rBCfVQqBXBx4Tal",
+            "name": "Mosaik EP"
+          },
+          "artists": [
+            {
+              "id": "3VRvi42U8SsiT4YKP5LNCB",
+              "name": "Extrawelt"
+            }
+          ],
+          "duration_ms": 458048,
+          "id": "5rRtjTdtvfddYbpOFlUGa3",
+          "name": "Tim Says"
+        }
+      },
+      {
+        "added_at": "2012-04-17T13:45:50Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "4KJlFS3o1PGiHOjYsh6aVd",
+            "name": "Symphonica"
+          },
+          "artists": [
+            {
+              "id": "0WSSKmoRbxqLf3MnXInQ2J",
+              "name": "Max Cooper"
+            }
+          ],
+          "duration_ms": 411641,
+          "id": "7lHhqQgvfYq0jgkjcesja3",
+          "name": "Wasp"
+        }
+      },
+      {
+        "added_at": "2012-04-17T13:50:57Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0eRxY9r5Q5Z2I0n3YnOkGd",
+            "name": "Babou"
+          },
+          "artists": [
+            {
+              "id": "3C046bLxNmvBQyaucinAhf",
+              "name": "Julian Jeweil"
+            }
+          ],
+          "duration_ms": 411503,
+          "id": "5y8ep6ihbbBlIEhdDyKelR",
+          "name": "Opening"
+        }
+      },
+      {
+        "added_at": "2012-04-18T16:02:07Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "3ZWTZMolGvqlKPnbObqU2v",
+            "name": "Summer On Mars EP"
+          },
+          "artists": [
+            {
+              "id": "4f2K0RSYyxP4TUyZu1azYB",
+              "name": "Popof"
+            }
+          ],
+          "duration_ms": 392000,
+          "id": "6sVCJN0VxBBgGrrW2l5YUu",
+          "name": "Toxic love"
+        }
+      },
+      {
+        "added_at": "2012-05-16T14:02:11Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "3O6TUllBSaNR5Er0wRDRoe",
+            "name": "Ghost Hunters EP"
+          },
+          "artists": [
+            {
+              "id": "6rKe9NutBnuHTLINEzZd1v",
+              "name": "Phunk Investigation"
+            }
+          ],
+          "duration_ms": 508426,
+          "id": "2SEhq248SpV9SIlpA5NhIq",
+          "name": "Spirit - Original Mix"
+        }
+      },
+      {
+        "added_at": "2012-10-19T14:55:27Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0hkGOu5rBCfVQqBXBx4Tal",
+            "name": "Mosaik EP"
+          },
+          "artists": [
+            {
+              "id": "3VRvi42U8SsiT4YKP5LNCB",
+              "name": "Extrawelt"
+            }
+          ],
+          "duration_ms": 458048,
+          "id": "5rRtjTdtvfddYbpOFlUGa3",
+          "name": "Tim Says"
+        }
+      },
+      {
+        "added_at": "2012-10-22T10:04:34Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "565hveNkWNjzyeiGI09bhU",
+            "name": "Mucky Star"
+          },
+          "artists": [
+            {
+              "id": "5RhYlkH81xSVne4eDZ0bem",
+              "name": "Elektrochemie"
+            }
+          ],
+          "duration_ms": 542560,
+          "id": "4HzvDf7rWOZQnq7KauF8h6",
+          "name": "Mucky Star"
+        }
+      },
+      {
+        "added_at": "2012-10-26T09:14:20Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "73vcy3IxFFrTyzb8xCXM2H",
+            "name": "Papillon"
+          },
+          "artists": [
+            {
+              "id": "5kLzaeSHrmS7okc5XNE6lv",
+              "name": "Butch"
+            }
+          ],
+          "duration_ms": 321546,
+          "id": "4KxDS3GL7UGAko6Tg2YmHR",
+          "name": "Mushroom Man"
+        }
+      },
+      {
+        "added_at": "2012-11-02T14:20:39Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "2a4Ys6PLs2LJZY906EBeyL",
+            "name": "Pleasure Seeker"
+          },
+          "artists": [
+            {
+              "id": "5RhYlkH81xSVne4eDZ0bem",
+              "name": "Elektrochemie"
+            }
+          ],
+          "duration_ms": 438800,
+          "id": "1U2jjKJHpkg8elMsMyFiVN",
+          "name": "Pleasure Seeker"
+        }
+      },
+      {
+        "added_at": "2012-11-02T14:44:02Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "1okuGuR8xyS3irMSvxz4C5",
+            "name": "H-3"
+          },
+          "artists": [
+            {
+              "id": "0NBGssQpgDczTsVEp4pCbR",
+              "name": "Oliver Huntemann"
+            }
+          ],
+          "duration_ms": 467473,
+          "id": "5SYwUhBAk3moI9jWiHllzf",
+          "name": "Rikarda"
+        }
+      },
+      {
+        "added_at": "2012-12-06T09:50:33Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0iiQjHnogKKOj36XltstBU",
+            "name": "Gem Summer Sampler 1.0"
+          },
+          "artists": [
+            {
+              "id": "6xVz6DzyodtQIglpFEZNLd",
+              "name": "Arjuna Schiks"
+            }
+          ],
+          "duration_ms": 500807,
+          "id": "2d6kVhxFCeXpfWteYjlFYL",
+          "name": "Mahesvari"
+        }
+      },
+      {
+        "added_at": "2013-04-08T14:06:20Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "2qfaY9GsOWfMSpCJzfr1HG",
+            "name": "Reflections"
+          },
+          "artists": [
+            {
+              "id": "2yPveJtn9DpeN0CgNJHvAQ",
+              "name": "Stimming"
+            }
+          ],
+          "duration_ms": 381735,
+          "id": "1XMh3GepLDPTHUBEh7PrvW",
+          "name": "Silver Surfer"
+        }
+      },
+      {
+        "added_at": "2013-04-09T14:04:20Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "4NM74ri4UFMzGvMRf8Np8T",
+            "name": "My Love Is Systematic, Vol. 2 (Compiled by Dusty Kid)"
+          },
+          "artists": [
+            {
+              "id": "2nq2BeSbzExGAv3Y4HgUf7",
+              "name": "Stephan Bodzin"
+            },
+            {
+              "id": "623ecFS6T9xsx9Rb98eii5",
+              "name": "Marc Romboy"
+            }
+          ],
+          "duration_ms": 446004,
+          "id": "2QgqC4dlGs2EARgmB8Iu0U",
+          "name": "Ferdinand"
+        }
+      },
+      {
+        "added_at": "2013-04-15T14:29:43Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "1VyFdTramW376P7Ik7v6ob",
+            "name": "Die Liebe"
+          },
+          "artists": [
+            {
+              "id": "2yPveJtn9DpeN0CgNJHvAQ",
+              "name": "Stimming"
+            }
+          ],
+          "duration_ms": 445600,
+          "id": "5yjLlC6bCIBED654RFLRar",
+          "name": "Die Liebe"
+        }
+      },
+      {
+        "added_at": "2013-04-15T14:43:08Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "1VyFdTramW376P7Ik7v6ob",
+            "name": "Die Liebe"
+          },
+          "artists": [
+            {
+              "id": "2yPveJtn9DpeN0CgNJHvAQ",
+              "name": "Stimming"
+            }
+          ],
+          "duration_ms": 456160,
+          "id": "0eWVXsxlFy8yM3O2PpbX22",
+          "name": "State of Mind"
+        }
+      },
+      {
+        "added_at": "2013-04-15T15:22:52Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "7APiJOR6vxAFNbOZYHLxTI",
+            "name": "My Stupid"
+          },
+          "artists": [
+            {
+              "id": "3VRvi42U8SsiT4YKP5LNCB",
+              "name": "Extrawelt"
+            }
+          ],
+          "duration_ms": 376023,
+          "id": "2aSJRRUCBP4Rs1cPCwZwNk",
+          "name": "My Stupid (Edit) - Edit"
+        }
+      },
+      {
+        "added_at": "2013-04-19T13:21:11Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "5c9FTigZd7gBA58p09q2Tm",
+            "name": "Lamur"
+          },
+          "artists": [
+            {
+              "id": "7Em4kWZ5atMYknHwSkp3gD",
+              "name": "Guy J"
+            }
+          ],
+          "duration_ms": 610965,
+          "id": "7BjLiR1mNX6kyd1QKMWEi8",
+          "name": "Lamur - Henry Saiz Remix"
+        }
+      },
+      {
+        "added_at": "2013-04-29T15:11:29Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "7duWZOpcG0teYqZgJx6H80",
+            "name": "Modern Driveway"
+          },
+          "artists": [
+            {
+              "id": "3rVAnydRNnaQr24T3reJZg",
+              "name": "Luke Abbott"
+            }
+          ],
+          "duration_ms": 333172,
+          "id": "4RahtE3jOvD8dSmNew6Q7t",
+          "name": "Modern Driveway"
+        }
+      },
+      {
+        "added_at": "2013-04-30T13:06:11Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "6h3FBeqdgCPkI5cieXm1jo",
+            "name": "Stoplight"
+          },
+          "artists": [
+            {
+              "id": "1ygSVTF0A998n2Z3nmLei8",
+              "name": "Audion"
+            }
+          ],
+          "duration_ms": 382773,
+          "id": "6vqfZeLluDbgjyoWn12R6m",
+          "name": "Stoplight"
+        }
+      },
+      {
+        "added_at": "2013-05-08T14:00:34Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "6bS8T6S5r5qhjmSjEEMS7d",
+            "name": "Rekorder 05"
+          },
+          "artists": [
+            {
+              "id": "4XaooCXrAo9vrjn7AqkPAA",
+              "name": "Rekorder"
+            }
+          ],
+          "duration_ms": 363744,
+          "id": "0xrMSYq1MyRd4d2wcHT7jN",
+          "name": "Rekorder 5.1"
+        }
+      },
+      {
+        "added_at": "2013-05-31T11:48:33Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "4tDdl33p3S30ALpAn9kivq",
+            "name": "Get Yourself EP"
+          },
+          "artists": [
+            {
+              "id": "5RhYlkH81xSVne4eDZ0bem",
+              "name": "Elektrochemie"
+            }
+          ],
+          "duration_ms": 331253,
+          "id": "35WQKG2vuzn4ce818gsGdz",
+          "name": "Faking"
+        }
+      },
+      {
+        "added_at": "2013-07-16T12:29:46Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0V7o53cR5xs5v6qJ0HEHut",
+            "name": "Marc Romboy Presents Musica Electronica Vol. 3"
+          },
+          "artists": [
+            {
+              "id": "5XFQLyJekhzCO7PiTqboOB",
+              "name": "Robert Babicz"
+            }
+          ],
+          "duration_ms": 520637,
+          "id": "74ne7QxvSuOrV0wvUAPUjh",
+          "name": "Dark Flower - Joris Voorn Magnolia mix"
+        }
+      },
+      {
+        "added_at": "2013-07-22T12:00:04Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "5iwS1qqUwBTyLz2uaNDxe5",
+            "name": "Berlin - Afterhour"
+          },
+          "artists": [
+            {
+              "id": "5ZZEDlsQsxJqj2svh4GqZD",
+              "name": "Rainer Weichhold"
+            }
+          ],
+          "duration_ms": 351863,
+          "id": "43Nye6ijuh9OpyyYFpH6Z6",
+          "name": "Bamboo - Format B Remix"
+        }
+      },
+      {
+        "added_at": "2013-11-24T00:20:12Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "55fAmz9jgw6yQOds2JFaOh",
+            "name": "Liebe Ist..."
+          },
+          "artists": [
+            {
+              "id": "2nq2BeSbzExGAv3Y4HgUf7",
+              "name": "Stephan Bodzin"
+            }
+          ],
+          "duration_ms": 401278,
+          "id": "1bkPoJpLAJWokLRFUbDJgE",
+          "name": "Fahrenheit"
+        }
+      },
+      {
+        "added_at": "2013-11-24T00:21:49Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "55fAmz9jgw6yQOds2JFaOh",
+            "name": "Liebe Ist..."
+          },
+          "artists": [
+            {
+              "id": "2nq2BeSbzExGAv3Y4HgUf7",
+              "name": "Stephan Bodzin"
+            }
+          ],
+          "duration_ms": 372481,
+          "id": "4CWOzhquhYWyljynVEAAww",
+          "name": "Planet Ypsilon"
+        }
+      },
+      {
+        "added_at": "2013-11-24T00:27:49Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "5iwS1qqUwBTyLz2uaNDxe5",
+            "name": "Berlin - Afterhour"
+          },
+          "artists": [
+            {
+              "id": "0NBGssQpgDczTsVEp4pCbR",
+              "name": "Oliver Huntemann"
+            },
+            {
+              "id": "3bVYqr2NfmwmL4YJisWhJI",
+              "name": "Dubfire"
+            }
+          ],
+          "duration_ms": 371308,
+          "id": "39II3Somb5UQPZc40O3nfS",
+          "name": "Dios - Jon Gaier's Atheist Anonymous Remix"
+        }
+      },
+      {
+        "added_at": "2013-11-24T00:28:25Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "3Vw5GoTmay8XhMhqscX2ZV",
+            "name": "Dios"
+          },
+          "artists": [
+            {
+              "id": "3bVYqr2NfmwmL4YJisWhJI",
+              "name": "Dubfire"
+            },
+            {
+              "id": "0NBGssQpgDczTsVEp4pCbR",
+              "name": "Oliver Huntemann"
+            }
+          ],
+          "duration_ms": 594686,
+          "id": "0KwXplh6qCgs218JkH1FCH",
+          "name": "Dios"
+        }
+      },
+      {
+        "added_at": "2013-11-24T00:30:42Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "2qfaY9GsOWfMSpCJzfr1HG",
+            "name": "Reflections"
+          },
+          "artists": [
+            {
+              "id": "2yPveJtn9DpeN0CgNJHvAQ",
+              "name": "Stimming"
+            }
+          ],
+          "duration_ms": 417359,
+          "id": "1GvNZsE7ALCkVYembg2tJa",
+          "name": "After Eight"
+        }
+      },
+      {
+        "added_at": "2013-11-24T00:31:10Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "1S4UGiNs27kQL0DbyBg5Cg",
+            "name": "Bedrock 12 Compiled by John Digweed"
+          },
+          "artists": [
+            {
+              "id": "0WSSKmoRbxqLf3MnXInQ2J",
+              "name": "Max Cooper"
+            }
+          ],
+          "duration_ms": 490823,
+          "id": "7nJrGfETVixYeYSa2A2jLI",
+          "name": "Ediolic Spectra"
+        }
+      },
+      {
+        "added_at": "2013-12-16T21:55:02Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "5RwJdy6sFsGTLbUaFd8AeL",
+            "name": "The Seven Year Itch"
+          },
+          "artists": [
+            {
+              "id": "0r0m8up7CjS8TJodH2HX7C",
+              "name": "Solee"
+            }
+          ],
+          "duration_ms": 586276,
+          "id": "4p2BvV1ALxGZ8uPep97B27",
+          "name": "Caillou"
+        }
+      },
+      {
+        "added_at": "2013-12-23T00:24:00Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "7qRxeOmDQaQ0DX28sTUzjp",
+            "name": "Faze DJ Set #21: Super Flu"
+          },
+          "artists": [
+            {
+              "id": "3qk4AowZhFKoYHocPk6l06",
+              "name": "Martin Waslewski"
+            }
+          ],
+          "duration_ms": 387872,
+          "id": "3pYalNy9ruAOca9jrVFphp",
+          "name": "Dederon Pinafore"
+        }
+      },
+      {
+        "added_at": "2013-12-23T20:59:44Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "7qRxeOmDQaQ0DX28sTUzjp",
+            "name": "Faze DJ Set #21: Super Flu"
+          },
+          "artists": [
+            {
+              "id": "3qk4AowZhFKoYHocPk6l06",
+              "name": "Martin Waslewski"
+            }
+          ],
+          "duration_ms": 450153,
+          "id": "0UfV6Uc1ddH6FJ76p4HAyJ",
+          "name": "Igelit Shoes"
+        }
+      },
+      {
+        "added_at": "2013-12-23T21:16:11Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "7qRxeOmDQaQ0DX28sTUzjp",
+            "name": "Faze DJ Set #21: Super Flu"
+          },
+          "artists": [
+            {
+              "id": "1iZiG82D4w7FLHvOUUj4zW",
+              "name": "Super Flu"
+            }
+          ],
+          "duration_ms": 499586,
+          "id": "54XtQJ3y92FD1ZAZJJUgqE",
+          "name": "Fibi Maybe"
+        }
+      },
+      {
+        "added_at": "2014-01-02T19:15:19Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0FpuSlIv1hp9RLIs8E0xkm",
+            "name": "Sisi"
+          },
+          "artists": [
+            {
+              "id": "4lHV1asSlxy654N3Rsfda7",
+              "name": "Mladen Solomun"
+            }
+          ],
+          "duration_ms": 561373,
+          "id": "49oglqAX5SCZO7QvOsCYRT",
+          "name": "Sisi"
+        }
+      },
+      {
+        "added_at": "2014-01-02T20:24:28Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "3p2tBiJDw1t4Qf7WiPibiH",
+            "name": "BYT Presents Kaiserdisco Noice Vol. 2"
+          },
+          "artists": [
+            {
+              "id": "0I6dUSnXB5sBueN1OjoPwz",
+              "name": "Heinrichs & Hirtenfellner"
+            }
+          ],
+          "duration_ms": 442466,
+          "id": "5b7d4Xt9Ih7f6Ok22DZXC4",
+          "name": "Down"
+        }
+      },
+      {
+        "added_at": "2014-01-30T21:42:09Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "1R7RsN6kHsfi3Z5ZvB5z9f",
+            "name": "Berlin Underground Selection (Finest Electronic Music)"
+          },
+          "artists": [
+            {
+              "id": "2yPveJtn9DpeN0CgNJHvAQ",
+              "name": "Stimming"
+            }
+          ],
+          "duration_ms": 485124,
+          "id": "7s77pMaxqH87jp3EJSAjaq",
+          "name": "UNA PENA - ORGINAL"
+        }
+      },
+      {
+        "added_at": "2014-01-30T22:36:03Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "1Oiif1lUDnzDHR9CsNC3LP",
+            "name": "Flying Practice (The Remixes) - Single"
+          },
+          "artists": [
+            {
+              "id": "27LGatz1m8aJ7ZaVVWEphc",
+              "name": "Gui Boratto"
+            }
+          ],
+          "duration_ms": 360500,
+          "id": "4h85L7kpt38ZPR0zVoxJXA",
+          "name": "Flying Practice - HNQO Remix"
+        }
+      },
+      {
+        "added_at": "2014-02-06T07:22:53Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "05yoJ7NrtqPtgqNgNFttmd",
+            "name": "Systematic Deep House Vol.2"
+          },
+          "artists": [
+            {
+              "id": "2yPveJtn9DpeN0CgNJHvAQ",
+              "name": "Stimming"
+            }
+          ],
+          "duration_ms": 411399,
+          "id": "20dK2ivkaPMb0s1BOeR9zg",
+          "name": "Funk With Me"
+        }
+      },
+      {
+        "added_at": "2014-02-06T11:56:32Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "5W60uQb5u7EoXtGxFWjfgr",
+            "name": "Sycamore Feeling"
+          },
+          "artists": [
+            {
+              "id": "4O71i7ke5iIBX6RNSFoZbS",
+              "name": "Trentemøller"
+            }
+          ],
+          "duration_ms": 436123,
+          "id": "1Z1hpYNl6vW4HUHmrSM2lZ",
+          "name": "Sycamore Feeling - Gui Boratto Remix"
+        }
+      },
+      {
+        "added_at": "2014-02-15T16:43:34Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "1P6dvNUmiZWaXJBdHe5haP",
+            "name": "Donut"
+          },
+          "artists": [
+            {
+              "id": "20O4Ik25BbWfWBz0kZtsxX",
+              "name": "M.A.N.D.Y."
+            },
+            {
+              "id": "2CKaDZ1Yo8YnWega9IeUzB",
+              "name": "Booka Shade"
+            }
+          ],
+          "duration_ms": 442588,
+          "id": "3MMuB2F7KDsIG17zczxK95",
+          "name": "Donut - Gui Boratto Remix"
+        }
+      },
+      {
+        "added_at": "2014-02-15T20:27:01Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "16GM2vLeddNC4lndLosjJK",
+            "name": "Liebe Ist..."
+          },
+          "artists": [
+            {
+              "id": "2nq2BeSbzExGAv3Y4HgUf7",
+              "name": "Stephan Bodzin"
+            }
+          ],
+          "duration_ms": 432756,
+          "id": "6JaWqpWxZ47wI2j37Kgq66",
+          "name": "Liebe ist..."
+        }
+      },
+      {
+        "added_at": "2014-02-23T02:19:35Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "197ZIyUYg0YDeir21fI4lj",
+            "name": "Scotch Your Mind"
+          },
+          "artists": [
+            {
+              "id": "1bGT3ROs9qGBXLUYsj1Fur",
+              "name": "Alli Borem"
+            }
+          ],
+          "duration_ms": 365717,
+          "id": "1cnPGMnQqcmasNOCBiAAq4",
+          "name": "Scotch Your Mind - Original Mix"
+        }
+      },
+      {
+        "added_at": "2014-03-16T15:17:03Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "3zQBw4RdZ8C15u29Eo0N7j",
+            "name": "Federgwicht"
+          },
+          "artists": [
+            {
+              "id": "3cduU2huZ18pS50V7tic61",
+              "name": "Ost & Kjex"
+            },
+            {
+              "id": "5wJK4kQAkVGjqM9x46KQOC",
+              "name": "Solomun"
+            }
+          ],
+          "duration_ms": 498000,
+          "id": "49HHvg3W0eR2SajQRP9UD6",
+          "name": "Federgewicht - Hamburg Version"
+        }
+      },
+      {
+        "added_at": "2014-03-25T07:39:19Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "33z8AWx6L8IOvIfZDh2JJn",
+            "name": "Waterkristallen - EP"
+          },
+          "artists": [
+            {
+              "id": "6xVz6DzyodtQIglpFEZNLd",
+              "name": "Arjuna Schiks"
+            }
+          ],
+          "duration_ms": 413514,
+          "id": "6JXIjCA3s61twv5T9TSd48",
+          "name": "My Cup of Tea"
+        }
+      },
+      {
+        "added_at": "2014-03-29T00:14:05Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "6HnUW77LAb9FJ9wR4Hs4BS",
+            "name": "Knarzer Roller"
+          },
+          "artists": [
+            {
+              "id": "5Am25tT39BPzreHngMkuux",
+              "name": "Format:B"
+            }
+          ],
+          "duration_ms": 316746,
+          "id": "2oESq1MAqNuULsfEg50FJc",
+          "name": "Knarzer Roller - Original Mix"
+        }
+      },
+      {
+        "added_at": "2014-03-29T00:20:12Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "3AhKNvFpQg1hnfemizzaOj",
+            "name": "Better Place/Chapter One Single"
+          },
+          "artists": [
+            {
+              "id": "4O71i7ke5iIBX6RNSFoZbS",
+              "name": "Trentemøller"
+            }
+          ],
+          "duration_ms": 517906,
+          "id": "3GRlx4BgJ8PEJfJRQGQgCb",
+          "name": "Chapter One (Trentemøller Mix)"
+        }
+      },
+      {
+        "added_at": "2014-04-01T06:09:36Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "4Qks7XYK4gekVbibZDrMY3",
+            "name": "Empirisch"
+          },
+          "artists": [
+            {
+              "id": "0WSSKmoRbxqLf3MnXInQ2J",
+              "name": "Max Cooper"
+            }
+          ],
+          "duration_ms": 488257,
+          "id": "490UHcYRYd2cQ3ns4DqWAj",
+          "name": "Echoes reality"
+        }
+      },
+      {
+        "added_at": "2014-04-08T05:51:26Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0hkGOu5rBCfVQqBXBx4Tal",
+            "name": "Mosaik EP"
+          },
+          "artists": [
+            {
+              "id": "3VRvi42U8SsiT4YKP5LNCB",
+              "name": "Extrawelt"
+            }
+          ],
+          "duration_ms": 547786,
+          "id": "3v1zT6v9Wl5L2bk65qveyK",
+          "name": "Mozaics"
+        }
+      },
+      {
+        "added_at": "2014-04-15T10:53:38Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "1sK3sdUuIgjnt9RKpVm6Xx",
+            "name": "The Place Ibiza Vol. 1"
+          },
+          "artists": [
+            {
+              "id": "3VAVMUyDwL7FlkivpaMeRh",
+              "name": "Basti Grub"
+            },
+            {
+              "id": "7d0fv3UuW4VyiXcq2pDaVZ",
+              "name": "Komaton"
+            }
+          ],
+          "duration_ms": 428222,
+          "id": "70Sm5q4IjchX3wVc8ioZ5D",
+          "name": "Sick"
+        }
+      },
+      {
+        "added_at": "2014-04-22T20:52:14Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "3o2ZXv3tTbyvlnUYV27eat",
+            "name": "Epikur EP"
+          },
+          "artists": [
+            {
+              "id": "1cS5EoXVqz7aON00AkVBBA",
+              "name": "David August"
+            }
+          ],
+          "duration_ms": 433586,
+          "id": "1GGy9uJz7woK1NgXjUJN86",
+          "name": "Agatha"
+        }
+      },
+      {
+        "added_at": "2014-05-01T14:40:50Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "3upWDUZL9GwmHXC3y2vHUy",
+            "name": "Berlin Afterhour 2 - From Minimal to Techno - From Electro to House"
+          },
+          "artists": [
+            {
+              "id": "4f2K0RSYyxP4TUyZu1azYB",
+              "name": "Popof"
+            }
+          ],
+          "duration_ms": 489625,
+          "id": "1UwfrmzqVUF8ORGxyHrj1a",
+          "name": "Roxy"
+        }
+      },
+      {
+        "added_at": "2014-05-23T23:41:57Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "51voHl3Vpr8LwKSdNiwK1y",
+            "name": "Coltrane / Sexus"
+          },
+          "artists": [
+            {
+              "id": "5Am25tT39BPzreHngMkuux",
+              "name": "Format:B"
+            },
+            {
+              "id": "4ipS3ZbqP46bs124yqp9N4",
+              "name": "Pleasurekraft"
+            }
+          ],
+          "duration_ms": 388157,
+          "id": "5EkiS1xodywOiR5kdaArGt",
+          "name": "Sexus - Original Mix"
+        }
+      },
+      {
+        "added_at": "2014-06-03T06:51:55Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "3oxrhXwVQYFDjF73MeSgE5",
+            "name": "Roadtrip Ep"
+          },
+          "artists": [
+            {
+              "id": "5RPzPJCg4ER1LzQkorZ31p",
+              "name": "Worakls"
+            }
+          ],
+          "duration_ms": 450015,
+          "id": "3MA6XtTJ7pEAWgJymWlyaZ",
+          "name": "Roadtrip (Original Mix) - Original Mix"
+        }
+      },
+      {
+        "added_at": "2014-06-03T07:05:02Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "6MSABvfZWM8S64CUMyWAnH",
+            "name": "Tears of a Clown"
+          },
+          "artists": [
+            {
+              "id": "04jj7dljPI0ixtNsz2pXWK",
+              "name": "Pig & Dan"
+            }
+          ],
+          "duration_ms": 615239,
+          "id": "6WKvIW9t2meMj0fhCzj4gR",
+          "name": "Tears of a Clown - Max Cooper's Expanded Remix"
+        }
+      },
+      {
+        "added_at": "2014-06-09T15:04:56Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "1AExyZyuEPYU2zEdhMKAYj",
+            "name": "Captain My Captain"
+          },
+          "artists": [
+            {
+              "id": "6OQOvP7RAdmAKVXXQqD0Se",
+              "name": "Pan-Pot"
+            }
+          ],
+          "duration_ms": 460213,
+          "id": "0IbwzLvItz6A2hPiUtfBMX",
+          "name": "Black Horse Down"
+        }
+      },
+      {
+        "added_at": "2014-06-24T16:05:01Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "3PlO4VCYvxzAuXl8M1ydpf",
+            "name": "Secret Weapons EP Part 5"
+          },
+          "artists": [
+            {
+              "id": "5Ls75umF4lBOQVp3pJAlbW",
+              "name": "Konstantin Sibold"
+            }
+          ],
+          "duration_ms": 541360,
+          "id": "0JTyJjDUQLTexXAPgdr8Pn",
+          "name": "Madeleine - Original Mix"
+        }
+      },
+      {
+        "added_at": "2014-07-14T10:32:10Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "5XR0BnfAuDyCcmyFq1aO79",
+            "name": "Lasso (Remixe)"
+          },
+          "artists": [
+            {
+              "id": "6BHpFo1cbGCGLWh28wa43x",
+              "name": "2raumwohnung"
+            }
+          ],
+          "duration_ms": 590653,
+          "id": "4cFvIxMg3tZnLUBPyogUZz",
+          "name": "Wir Werden Sehen - Paul Kalkbrenner Remix"
+        }
+      },
+      {
+        "added_at": "2014-07-17T17:12:08Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "6vOOK2LSuBTZHxyEXQFJx1",
+            "name": "Crash Test"
+          },
+          "artists": [
+            {
+              "id": "2bP72uOaVvJ2syINURI42n",
+              "name": "Martin Buttrich"
+            }
+          ],
+          "duration_ms": 461323,
+          "id": "5acS3Wo0XQYn8AaDwysMfk",
+          "name": "Enough Love To Hate It"
+        }
+      },
+      {
+        "added_at": "2014-07-17T17:51:25Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "4x3jPT2H128TjazRTY13tD",
+            "name": "Deseo"
+          },
+          "artists": [
+            {
+              "id": "0f14r70OISSfJoyqYaHbgV",
+              "name": "Anja Schneider"
+            },
+            {
+              "id": "0AJXTSXK0tm1nNb0VU4bt2",
+              "name": "Lee van Dowski"
+            }
+          ],
+          "duration_ms": 431493,
+          "id": "6AGh3RnXAuYciKLhYbnBgo",
+          "name": "La Roulette"
+        }
+      },
+      {
+        "added_at": "2014-07-19T22:05:35Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0PBAUAafpeyCvVB66V7BMn",
+            "name": "Change EP"
+          },
+          "artists": [
+            {
+              "id": "2yPveJtn9DpeN0CgNJHvAQ",
+              "name": "Stimming"
+            }
+          ],
+          "duration_ms": 423253,
+          "id": "2wGpc4uzIHzWG5LcQlu3yh",
+          "name": "Der Schmelz"
+        }
+      },
+      {
+        "added_at": "2014-07-29T06:25:12Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "5B2Xm7OQA51ZsiOs4xosop",
+            "name": "Rainer Weichhold's Goldies"
+          },
+          "artists": [
+            {
+              "id": "5kLzaeSHrmS7okc5XNE6lv",
+              "name": "Butch"
+            }
+          ],
+          "duration_ms": 367619,
+          "id": "0Qx2X3kbXIi2CuEX4CY7Uh",
+          "name": "Amelie"
+        }
+      },
+      {
+        "added_at": "2014-07-29T06:43:51Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "1F8y2bg9V9nRoy8zuxo3Jt",
+            "name": "Heligoland"
+          },
+          "artists": [
+            {
+              "id": "6FXMGgJwohJLUSr5nVlf9X",
+              "name": "Massive Attack"
+            }
+          ],
+          "duration_ms": 487574,
+          "id": "6rU0dLXyWbXqti69nrQP4H",
+          "name": "Paradise Circus - Gui Boratto Remix"
+        }
+      },
+      {
+        "added_at": "2014-08-02T17:44:24Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0U5S5YhWJJaWlUSGpZIlfp",
+            "name": "The K2 Chapter"
+          },
+          "artists": [
+            {
+              "id": "27LGatz1m8aJ7ZaVVWEphc",
+              "name": "Gui Boratto"
+            }
+          ],
+          "duration_ms": 367418,
+          "id": "4R67HF7g2slCp0p5yOH9v1",
+          "name": "Arquipelago"
+        }
+      },
+      {
+        "added_at": "2014-08-02T20:43:44Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "44L1jnhnUrB87sqDQvWQCK",
+            "name": "Minimal Sugar, Vol. 1"
+          },
+          "artists": [
+            {
+              "id": "5r2arxIZMtFSBFC25AynTW",
+              "name": "Mark Henning"
+            }
+          ],
+          "duration_ms": 504987,
+          "id": "4TVD6KGlEJfWL7ziabCVxp",
+          "name": "S All Good"
+        }
+      },
+      {
+        "added_at": "2014-08-02T21:09:28Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0eRxY9r5Q5Z2I0n3YnOkGd",
+            "name": "Babou"
+          },
+          "artists": [
+            {
+              "id": "3C046bLxNmvBQyaucinAhf",
+              "name": "Julian Jeweil"
+            }
+          ],
+          "duration_ms": 377784,
+          "id": "4zar4PtnMRbXm8H2NiIn5W",
+          "name": "Babou"
+        }
+      },
+      {
+        "added_at": "2014-08-02T21:16:10Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "32pEFX4ZDB0tNqobOxcMTx",
+            "name": "24 Heures"
+          },
+          "artists": [
+            {
+              "id": "2zgFYHwSEYOc1KnldGsBXK",
+              "name": "Oxia"
+            }
+          ],
+          "duration_ms": 372360,
+          "id": "6MZGW14Wh2I985HgmRggmF",
+          "name": "Intuition"
+        }
+      },
+      {
+        "added_at": "2014-08-02T22:25:24Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "3upWDUZL9GwmHXC3y2vHUy",
+            "name": "Berlin Afterhour 2 - From Minimal to Techno - From Electro to House"
+          },
+          "artists": [
+            {
+              "id": "4f2K0RSYyxP4TUyZu1azYB",
+              "name": "Popof"
+            }
+          ],
+          "duration_ms": 489625,
+          "id": "1UwfrmzqVUF8ORGxyHrj1a",
+          "name": "Roxy"
+        }
+      },
+      {
+        "added_at": "2014-08-10T10:05:52Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0tda5FhyWpARPCORnlK2hK",
+            "name": "Pious Sin Ep"
+          },
+          "artists": [
+            {
+              "id": "6OQOvP7RAdmAKVXXQqD0Se",
+              "name": "Pan-Pot"
+            }
+          ],
+          "duration_ms": 551053,
+          "id": "4CGUUr3mW5sOrV8YR7rrry",
+          "name": "50/50 Split"
+        }
+      },
+      {
+        "added_at": "2014-08-19T06:08:59Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "14Vn7GsZOTzyJvKfsly6M7",
+            "name": "Marc Romboy Pres. Musica Electronica 2"
+          },
+          "artists": [
+            {
+              "id": "4O71i7ke5iIBX6RNSFoZbS",
+              "name": "Trentemøller"
+            },
+            {
+              "id": "0m0udc0jvvBGmwdieH5su5",
+              "name": "Mikael Simpson"
+            }
+          ],
+          "duration_ms": 683914,
+          "id": "7I9Pp8r5Rc1fOF9l0NQntd",
+          "name": "Moan - Radio Slave's Remix For K"
+        }
+      },
+      {
+        "added_at": "2014-08-28T18:19:50Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "6ygqGzoFOFr1X8pTmOkJS7",
+            "name": "Colorblind EP"
+          },
+          "artists": [
+            {
+              "id": "4abBidW4ScsxlRcISTeKkB",
+              "name": "Microtrauma"
+            }
+          ],
+          "duration_ms": 450491,
+          "id": "786xwzwqMXwg6QWPzaGXQS",
+          "name": "Contrast (Max Cooper Remix)"
+        }
+      },
+      {
+        "added_at": "2014-09-06T21:53:47Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "4PGdknsrhqsHvfoSPHf0Eo",
+            "name": "Hd"
+          },
+          "artists": [
+            {
+              "id": "2a8NW6dE2Igxb6LQXDhdgL",
+              "name": "Atom TM"
+            }
+          ],
+          "duration_ms": 393724,
+          "id": "2lPllGa0zBEiPwgGxQdTeh",
+          "name": "Ich Bin Meine Maschine"
+        }
+      },
+      {
+        "added_at": "2014-09-08T17:05:03Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "5xPj961lBGUxcf0UwD3Gb0",
+            "name": "Notations EP"
+          },
+          "artists": [
+            {
+              "id": "27LGatz1m8aJ7ZaVVWEphc",
+              "name": "Gui Boratto"
+            }
+          ],
+          "duration_ms": 405120,
+          "id": "6Ak9soCB6kTRI3lO1M3boZ",
+          "name": "Notations - Original Mix"
+        }
+      },
+      {
+        "added_at": "2014-09-08T17:15:37Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "3tGpqAyuCt8GWMmoNYCH0G",
+            "name": "Robert Babicz Volume 1"
+          },
+          "artists": [
+            {
+              "id": "5XFQLyJekhzCO7PiTqboOB",
+              "name": "Robert Babicz"
+            }
+          ],
+          "duration_ms": 493400,
+          "id": "1Pk9rv2x51EJUUf7lYqOb3",
+          "name": "Remote Kiss"
+        }
+      },
+      {
+        "added_at": "2014-09-08T17:25:18Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "5eNOZcUBhNUFLbxAMK1G0i",
+            "name": "Exit"
+          },
+          "artists": [
+            {
+              "id": "3bVYqr2NfmwmL4YJisWhJI",
+              "name": "Dubfire"
+            }
+          ],
+          "duration_ms": 522358,
+          "id": "6dFVYQh4FMwNHUKpSHVEBv",
+          "name": "Midian"
+        }
+      },
+      {
+        "added_at": "2014-09-09T18:13:02Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0yqOQZYkEPTI2Bbj3MHiSx",
+            "name": "John Digweed Structures Two"
+          },
+          "artists": [
+            {
+              "id": "1nN9sUUgtCl0Z9ciCLc48Q",
+              "name": "Timo Maas"
+            }
+          ],
+          "duration_ms": 344761,
+          "id": "40mw0N3KJzumw3qbbawc1r",
+          "name": "Kick1 Kick3 - Maetrik Sexy Remix Edit"
+        }
+      },
+      {
+        "added_at": "2014-09-14T10:50:43Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0yqOQZYkEPTI2Bbj3MHiSx",
+            "name": "John Digweed Structures Two"
+          },
+          "artists": [
+            {
+              "id": "4IYGLJV0c8820Lz4xvAfrA",
+              "name": "Reude Hagelstein"
+            }
+          ],
+          "duration_ms": 476466,
+          "id": "2eSn71OYFol0o90Up606a9",
+          "name": "Emergency - Super Flu´s Gentle Dental Nurse Remix"
+        }
+      },
+      {
+        "added_at": "2014-09-14T10:56:08Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0yqOQZYkEPTI2Bbj3MHiSx",
+            "name": "John Digweed Structures Two"
+          },
+          "artists": [
+            {
+              "id": "1vKGSSawpjUffWPb5RsHA5",
+              "name": "Mylo Salte"
+            }
+          ],
+          "duration_ms": 464443,
+          "id": "0grlh9s6JABQH0HG2Y5LtS",
+          "name": "Soak - Original"
+        }
+      },
+      {
+        "added_at": "2014-12-07T22:00:54Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "4E5Z0epBIwwNBrwuR5fvgI",
+            "name": "Levo EP"
+          },
+          "artists": [
+            {
+              "id": "1doQgXssRfKnLx70adszbK",
+              "name": "Recondite"
+            }
+          ],
+          "duration_ms": 374733,
+          "id": "1oRWajDDMOomxjqyCEL4u1",
+          "name": "Levo - (Club Edit)"
+        }
+      },
+      {
+        "added_at": "2015-02-05T10:17:05Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "116jNjQNSksz5QB6FQ969B",
+            "name": "Ghetto Kraviz"
+          },
+          "artists": [
+            {
+              "id": "1oZmFNkGAT93yD1xX4vTRE",
+              "name": "Nina Kraviz"
+            }
+          ],
+          "duration_ms": 226680,
+          "id": "7uNo3k5Rh0KNM0dfx5y2kq",
+          "name": "Ghetto Kraviz"
+        }
+      },
+      {
+        "added_at": "2015-02-05T10:44:38Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "2UVq3aGWsCph3VkGRLvPs8",
+            "name": "Pain In The Ass"
+          },
+          "artists": [
+            {
+              "id": "1oZmFNkGAT93yD1xX4vTRE",
+              "name": "Nina Kraviz"
+            }
+          ],
+          "duration_ms": 400373,
+          "id": "0fOhmrvxqePqYoKf58R3Hv",
+          "name": "Pain In The Ass"
+        }
+      },
+      {
+        "added_at": "2015-04-10T08:30:32Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "4MmDUj2Q80gp7ecNgQyVyQ",
+            "name": "Trentemøller - The Digital Chronicles"
+          },
+          "artists": [
+            {
+              "id": "4O71i7ke5iIBX6RNSFoZbS",
+              "name": "Trentemøller"
+            }
+          ],
+          "duration_ms": 425602,
+          "id": "1qLgBgfN8RmrDcTBMbFnOO",
+          "name": "Physical Fraction - Original"
+        }
+      },
+      {
+        "added_at": "2015-05-01T19:18:51Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "7l5LlrP6HritF1vxEskVYu",
+            "name": "Horizontale Dimension"
+          },
+          "artists": [
+            {
+              "id": "6PAYg9qMiRQ1oU8DyqxGqF",
+              "name": "Felix Dames"
+            }
+          ],
+          "duration_ms": 491428,
+          "id": "7zX9AoIekrcnMR7H799CQS",
+          "name": "Aurora Granular"
+        }
+      },
+      {
+        "added_at": "2015-05-01T19:18:51Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "7l5LlrP6HritF1vxEskVYu",
+            "name": "Horizontale Dimension"
+          },
+          "artists": [
+            {
+              "id": "6PAYg9qMiRQ1oU8DyqxGqF",
+              "name": "Felix Dames"
+            }
+          ],
+          "duration_ms": 437760,
+          "id": "3sBUfMI6CXKCIlGHNJMI8R",
+          "name": "Freundlicher Imperator"
+        }
+      },
+      {
+        "added_at": "2015-05-01T19:18:51Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "7l5LlrP6HritF1vxEskVYu",
+            "name": "Horizontale Dimension"
+          },
+          "artists": [
+            {
+              "id": "6PAYg9qMiRQ1oU8DyqxGqF",
+              "name": "Felix Dames"
+            }
+          ],
+          "duration_ms": 592258,
+          "id": "2MZsWCHW4CfSLhx8ELCtDQ",
+          "name": "Masern"
+        }
+      },
+      {
+        "added_at": "2015-05-01T19:18:51Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "7l5LlrP6HritF1vxEskVYu",
+            "name": "Horizontale Dimension"
+          },
+          "artists": [
+            {
+              "id": "6PAYg9qMiRQ1oU8DyqxGqF",
+              "name": "Felix Dames"
+            }
+          ],
+          "duration_ms": 388571,
+          "id": "0vhsdltl6W3cEarXIRDcUY",
+          "name": "Multiple Fusion"
+        }
+      },
+      {
+        "added_at": "2015-05-01T19:18:51Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "7l5LlrP6HritF1vxEskVYu",
+            "name": "Horizontale Dimension"
+          },
+          "artists": [
+            {
+              "id": "6PAYg9qMiRQ1oU8DyqxGqF",
+              "name": "Felix Dames"
+            }
+          ],
+          "duration_ms": 441290,
+          "id": "59SVNJf8RWqoxAY4ly6Zdw",
+          "name": "Karneval Tristesse"
+        }
+      },
+      {
+        "added_at": "2015-05-10T17:25:26Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "0xbesZAIodHRDRgWsEwIFT",
+            "name": "Sparta"
+          },
+          "artists": [
+            {
+              "id": "4veIvBHKoUacjuoMOm3vsg",
+              "name": "Ten Walls"
+            }
+          ],
+          "duration_ms": 355122,
+          "id": "36JlfppB5TBeYdAhUxUq5m",
+          "name": "Sparta"
+        }
+      },
+      {
+        "added_at": "2015-07-08T09:41:12Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "7LFl8321Rt7ZGW1IH7BTn2",
+            "name": "Chunky"
+          },
+          "artists": [
+            {
+              "id": "5Am25tT39BPzreHngMkuux",
+              "name": "Format:B"
+            }
+          ],
+          "duration_ms": 364413,
+          "id": "7KMLkXlXAFKZztdLTErEGp",
+          "name": "Chunky"
+        }
+      },
+      {
+        "added_at": "2015-07-25T09:02:02Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "75GdjiglTEWLXCNPEWOHX7",
+            "name": "On Acid"
+          },
+          "artists": [
+            {
+              "id": "1doQgXssRfKnLx70adszbK",
+              "name": "Recondite"
+            }
+          ],
+          "duration_ms": 493622,
+          "id": "2p9MW1WUY5MxSAq6Q1sJTQ",
+          "name": "Harbinger"
+        }
+      },
+      {
+        "added_at": "2015-07-26T17:50:50Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "1lsCz2ryBBDy4KUc4O8aOg",
+            "name": "Need Electric"
+          },
+          "artists": [
+            {
+              "id": "1EULJuDFWpZ9xg4YwtUGGt",
+              "name": "Daniel Avery"
+            }
+          ],
+          "duration_ms": 416810,
+          "id": "0PTvsdRxcdmzYLi4R5RnCl",
+          "name": "The Eagle"
+        }
+      },
+      {
+        "added_at": "2015-09-19T08:57:19Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "7H54WqpLfrOHo03gFzPBi8",
+            "name": "Torn EP"
+          },
+          "artists": [
+            {
+              "id": "09UQUOICiqSgc3C8TRhTEh",
+              "name": "Tigerskin"
+            }
+          ],
+          "duration_ms": 462938,
+          "id": "7CDUhXKHej7V9TQMpWEYQZ",
+          "name": "Torn"
+        }
+      },
+      {
+        "added_at": "2015-09-19T13:19:19Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "327BraxIidlIl65I48BxWJ",
+            "name": "Southern Sun EP"
+          },
+          "artists": [
+            {
+              "id": "2yPveJtn9DpeN0CgNJHvAQ",
+              "name": "Stimming"
+            },
+            {
+              "id": "7qCMm9PnKUlHf8MQhGROhY",
+              "name": "Piper Davis"
+            }
+          ],
+          "duration_ms": 569620,
+          "id": "40EU384ShrZMmGzIehTZBf",
+          "name": "China Tree (feat. Piper Davis)"
+        }
+      },
+      {
+        "added_at": "2015-10-04T09:18:25Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "02eIrr6Qgb8lcF04y3xfoU",
+            "name": "ICKE WIEDER"
+          },
+          "artists": [
+            {
+              "id": "0rasA5Z5h1ITtHelCpfu9R",
+              "name": "Paul Kalkbrenner"
+            }
+          ],
+          "duration_ms": 432065,
+          "id": "56pj2XeSAZ3qnLB2okrTmf",
+          "name": "Jestrüpp"
+        }
+      },
+      {
+        "added_at": "2015-10-04T09:34:26Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "44bvE7pEJnSj3WakevyADl",
+            "name": "Window Shopping Ep"
+          },
+          "artists": [
+            {
+              "id": "2yPveJtn9DpeN0CgNJHvAQ",
+              "name": "Stimming"
+            }
+          ],
+          "duration_ms": 517758,
+          "id": "660mTp0lAHH4JsWGB2PTnU",
+          "name": "The Song"
+        }
+      },
+      {
+        "added_at": "2015-11-01T10:37:46Z",
+        "is_local": false,
+        "track": {
+          "album": {
+            "id": "32iw8iX8rTY2DAnq4IsPBU",
+            "name": "Best Tracks of the Year 2013 - Presented by Wasabi Recordings"
+          },
+          "artists": [
+            {
+              "id": "1oZmFNkGAT93yD1xX4vTRE",
+              "name": "Nina Kraviz"
+            },
+            {
+              "id": "0GvBX4DyJgtchW8OYyYVsA",
+              "name": "King Aus On The Mic"
+            }
+          ],
+          "duration_ms": 294160,
+          "id": "3H7fXmDXmHHUq3ANCT6qXf",
+          "name": "Aus (Feat. King Aus On The Mic)"
+        }
+      }
+    ],
+    "next": null,
+    "offset": 0,
+    "total": 106
+  }
+}

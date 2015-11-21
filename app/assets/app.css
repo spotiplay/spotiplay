@@ -138,6 +138,14 @@ md-toast {
 .alert {
   padding: 11px;
 }
+.alert span {
+  max-width: 500px;
+  margin-top: 18px;
+
+}
+.alert.red {
+  color: #963838;
+}
 
 .start {
   height: 100%;
@@ -215,7 +223,7 @@ body > .wrapper {
   z-index: 10;
   height: 1.5em;
   margin-top: -3em;
-  padding: 0.7em 1em;
+  padding: 0.5em 1em;
   font-size: 0.9rem;
   border-top: 1px solid #333;
 }
