@@ -9,6 +9,12 @@
         </md-button>
     </div>
     <div>
+        <md-button class="md-raised green-button" aria-label="Play" ng-click="play(button_save, false)">
+            <i class="fa" ng-class="button_save.queueing ? 'fa-spinner fa-spin' :  'fa-save'"></i>
+            Save
+        </md-button>
+    </div>
+    <div>
         <md-button class="md-raised green-button" aria-label="Add to queue" ng-click="play(button_add, true)">
             <i class="fa fa-plus-square-o" ng-class="button_add.queueing ? 'fa-spinner fa-spin' :  'fa-plus-square-o'"></i>
             Add to queue

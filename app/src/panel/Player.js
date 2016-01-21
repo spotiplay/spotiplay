@@ -14,6 +14,7 @@
     function Player($scope, $on, $window, $q, Tabs, Toast, Music, Queue) {
 
         $scope.button_play = {};
+        $scope.button_save = {};
         $scope.button_add = {};
         $scope.state = Tabs.state;
 
