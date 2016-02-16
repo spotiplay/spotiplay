@@ -30,6 +30,7 @@
         
         $scope.demo = function () {
             console.log('demo');
+            localStorage.setItem('oauth_token', 'demo-token');
             oauth.set_user('demo');
             $location.path('/panel');
         }

@@ -17,7 +17,7 @@ Advanced music manager for Spotify
 
 * `npm i`
 * `gulp` - to build
-* `bstart_builded.sh` - to run production build
+* `run_built.sh` - to run production build
 
 # License
 
