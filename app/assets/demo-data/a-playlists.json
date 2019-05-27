@@ -401,7 +401,7 @@
       "images": [
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/700fba9d2a0411248c44928443033986e1367516",
+          "url": "./assets/demo-data/images/ibiza.jpeg",
           "width": 300
         }
       ],
@@ -434,7 +434,7 @@
       "images": [
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/edc5c979a024803e3ab34974b296324b99590eed",
+          "url": "./assets/demo-data/images/chillout.jpeg",
           "width": 300
         }
       ],
@@ -758,7 +758,7 @@
       "images": [
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/5f0b7fb158b4ae4fd23e6c270606c2ffe7259e9f",
+          "url": "./assets/demo-data/images/funk.jpeg",
           "width": 300
         }
       ],
