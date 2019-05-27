@@ -23,4 +23,4 @@ Advanced music manager for Spotify
 
 The MIT License (MIT)
 
-Copyright (C) 2015 garmoshka-mo dan@dub.ink
+Copyright (C) 2015 garmoshka-mo d@coav.ru
