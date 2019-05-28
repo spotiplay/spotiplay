@@ -97,6 +97,7 @@ gulp.task('copy_static', function(){
         './app/src/**/*.html',
         './app/favicon.ico',
         './app/assets/demo-data/*.json',
+        './app/assets/demo-data/images/*',
         './app/assets/*.png',
         './app/assets/*.jpg',
         './app/assets/lib/angular-material.min.css'

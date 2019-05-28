@@ -8,7 +8,7 @@
     "start": "http-server app -S -p 5000"
   },
   "dependencies": {
-    "gulp": "*",
+    "gulp": "3.9.1",
     "gulp-add-src": "^0.2.0",
     "gulp-clean": "^0.3.1",
     "gulp-concat": "^2.6.0",

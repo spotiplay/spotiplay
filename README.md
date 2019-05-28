@@ -15,8 +15,12 @@ Advanced music manager for Spotify
 
 # Build
 
-* `npm i`
-* `gulp` - to build
+```
+yarn
+yarn global add gulp-cli
+gulp
+```
+
 * `run_built.sh` - to run production build
 
 # License

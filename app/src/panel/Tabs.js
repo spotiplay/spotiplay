@@ -14,7 +14,7 @@
         this.select = function(i) {
             // hotfix, shouldn't happen actually
             if (!self.mute_current_tab) return
-          
+
             self.mute_current_tab()
             var current_tab = self.tabs[i];
             if (current_tab.type != 'tracks')
