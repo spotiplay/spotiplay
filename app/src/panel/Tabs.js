@@ -12,7 +12,10 @@
 
 
         this.select = function(i) {
-            self.mute_current_tab();
+            // hotfix, shouldn't happen actually
+            if (!self.mute_current_tab) return
+          
+            self.mute_current_tab()
             var current_tab = self.tabs[i];
             if (current_tab.type != 'tracks')
                 GlobalFilter.remove_tag(current_tab.type);
